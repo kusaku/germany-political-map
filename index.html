@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An interactive 3D political map of Germany’s federal states, with regional polling, election results and an election calendar.">
+  <meta name="theme-color" content="#07090d">
+  <title>Political Atlas — Germany</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://unpkg.com/maplibre-gl@6.10.0/dist/maplibre-gl.css" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-J8N1Q1GVVB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-J8N1Q1GVVB");
+    (function(m,e,t,r,i,k,a){
+      m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+      m[i].l=1*new Date();
+      k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document, "script", "https://mc.yandex.ru/metrika/tag.js?id=105986243", "ym");
+    ym(105986243, "init", {accurateTrackBounce:true, trackLinks:true});
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#state-details">Skip to state details</a>
+
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Political Atlas home">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <b>POLITIKATLAS</b>
+      </a>
+
+      <div class="header-status" aria-live="polite">
+        <span class="live-dot" aria-hidden="true"></span>
+        <span id="data-status">Loading daily data snapshot…</span>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">Political landscape · 16 federal states</p>
+          <h1 id="page-title">Germany,<br><span>state by state.</span></h1>
+          <p class="hero-intro">The latest party ratings, the last ballot and every known next election date — on one daily updated map.</p>
+        </div>
+
+        <div class="hero-metrics" aria-label="National overview">
+          <div><span id="next-election-countdown">—</span><small>until the next state election</small></div>
+          <div><span id="polled-state-count">—</span><small>states with polling data</small></div>
+          <div><span id="poll-update-date">—</span><small>poll database updated</small></div>
+        </div>
+      </section>
+
+      <section class="atlas" aria-label="Interactive political map">
+        <div class="atlas-toolbar">
+          <div class="view-switch" role="group" aria-label="Map view">
+            <button class="view-button is-active" type="button" data-view="polls" aria-pressed="true">Daily polls</button>
+            <button class="view-button" type="button" data-view="election" aria-pressed="false">Last election</button>
+            <button class="view-button" type="button" data-view="calendar" aria-pressed="false">Election calendar</button>
+          </div>
+          <p id="view-description">Colour shows the polling leader. Height shows their rating.</p>
+        </div>
+
+        <div class="atlas-grid">
+          <div class="map-panel">
+            <div id="map" role="application" aria-label="Interactive map of Germany's federal states"></div>
+            <div id="map-legend" class="map-legend" aria-label="Party colour legend"></div>
+            <button id="reset-map" class="map-reset" type="button" aria-label="Reset 3D map view">Reset 3D</button>
+            <div id="map-tooltip" class="map-tooltip" role="tooltip" hidden></div>
+          </div>
+
+          <aside id="state-details" class="state-panel" aria-live="polite">
+            <div class="state-identity">
+              <div class="state-flag-frame">
+                <img id="state-flag" class="state-flag" src="assets/flags/11.svg" alt="Berlin flag">
+                <span id="state-flag-code">DE-BE</span>
+              </div>
+              <div>
+                <p class="eyebrow">FEDERAL STATE</p>
+                <h2 id="state-name">Berlin</h2>
+                <p id="state-capital" class="state-capital">Capital · Berlin</p>
+              </div>
+            </div>
+
+            <div id="election-alert" class="election-alert"></div>
+
+            <div class="data-section">
+              <div class="section-heading">
+                <div>
+                  <p class="section-label">CURRENT PARTY RATINGS</p>
+                  <p id="poll-method" class="section-note">Average of recent published polls</p>
+                </div>
+                <span id="poll-date" class="date-chip">—</span>
+              </div>
+              <div id="party-bars" class="party-bars"></div>
+              <p id="poll-empty" class="empty-state" hidden>No recent state polling is available.</p>
+            </div>
+
+            <div class="data-section election-section">
+              <div class="section-heading">
+                <div>
+                  <p class="section-label">LAST STATE ELECTION</p>
+                  <p id="election-date" class="section-note">—</p>
+                </div>
+                <span id="election-turnout" class="date-chip">—</span>
+              </div>
+              <div id="election-bars" class="mini-bars"></div>
+              <a id="election-source" class="source-link" href="#" target="_blank" rel="noopener noreferrer">Official result ↗</a>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="overview" aria-labelledby="overview-title">
+        <h2 id="overview-title">All states at a glance</h2>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">State</th>
+                <th scope="col">Polling leader</th>
+                <th scope="col">Latest rating</th>
+                <th scope="col">Last election winner</th>
+                <th scope="col">Next election</th>
+              </tr>
+            </thead>
+            <tbody id="states-table"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="party-landscape" aria-labelledby="party-title">
+        <h2 id="party-title">Who is strong where?</h2>
+
+        <div class="intel-metrics" aria-label="Political landscape summary">
+          <div><span id="party-count">—</span><small>parties tracked in current state polls</small></div>
+          <div><span id="poll-leader-count">—</span><small>different parties leading a state</small></div>
+          <div><span id="lead-change-count">—</span><small>states where the poll leader differs from the last winner</small></div>
+        </div>
+
+        <div class="table-wrap">
+          <table class="party-table">
+            <thead>
+              <tr>
+                <th scope="col">Party</th>
+                <th scope="col">Identity</th>
+                <th scope="col">States led</th>
+                <th scope="col">Mean rating</th>
+                <th scope="col">Strongest state</th>
+                <th scope="col">Last elections won</th>
+              </tr>
+            </thead>
+            <tbody id="party-table"></tbody>
+          </table>
+        </div>
+        <p class="data-caveat">Mean rating is the simple average of a party’s rating in states where it appears in the current polling data. It is not population-weighted and is not a national vote estimate.</p>
+      </section>
+
+      <section class="watch-grid" aria-label="Political change and election schedule">
+        <article class="watch-panel" aria-labelledby="shifts-title">
+          <div class="watch-heading">
+            <h2 id="shifts-title">Different leader,<br>since the ballot.</h2>
+            <p>States where today’s polling leader is not the party that won the latest state election.</p>
+          </div>
+          <div id="power-shifts" class="shift-grid"></div>
+        </article>
+
+        <article class="watch-panel" aria-labelledby="watch-title">
+          <div class="watch-heading">
+            <h2 id="watch-title">The next states<br>to vote.</h2>
+            <p>The eight nearest official dates or expected election windows, with the current polling leader.</p>
+          </div>
+          <div id="election-watch" class="election-watch"></div>
+        </article>
+      </section>
+
+      <section class="methodology" aria-labelledby="methodology-title">
+        <h2 id="methodology-title">A current signal, not a forecast.</h2>
+        <div class="method-copy">
+          <p>Party ratings are a simple average of each institute’s newest poll close to the most recent survey for that state. They are not a seat projection and carry the normal uncertainty of opinion polling.</p>
+          <p>Election shares are recalculated from official party vote totals, using the decisive party-list or second vote where applicable. Exact dates are marked as official; seasons are expected windows.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-links">
+        <a href="https://dawum.de/API/" target="_blank" rel="noopener noreferrer">Polls: DAWUM (ODbL)</a>
+        <a href="https://www.bundeswahlleiterin.de/en/service/landtagswahlen.html" target="_blank" rel="noopener noreferrer">Elections: Federal Returning Officer</a>
+        <a href="https://www.bundeswahlleiterin.de/en/parteien/unterlagensammlung/downloads.html" target="_blank" rel="noopener noreferrer">Party register</a>
+        <a href="https://www.bkg.bund.de" target="_blank" rel="noopener noreferrer">Map: © BKG 2026</a>
+        <a href="https://www.govdata.de/dl-de/by-2-0" target="_blank" rel="noopener noreferrer">dl-de/by-2-0</a>
+      </div>
+    </footer>
+  </div>
+
+  <noscript>This interactive map needs JavaScript enabled.</noscript>
+  <script type="module" src="app.js?v=20260919-3"></script>
+</body>
+</html>

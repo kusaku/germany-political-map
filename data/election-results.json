@@ -1,0 +1,1252 @@
+{
+  "states": {
+    "10": {
+      "date": "2022-03-27",
+      "provisional": false,
+      "results": [
+        {
+          "party": "SPD",
+          "value": 43.5
+        },
+        {
+          "party": "CDU",
+          "value": 28.5
+        },
+        {
+          "party": "AfD",
+          "value": 5.7
+        },
+        {
+          "party": "Greens",
+          "value": 5
+        },
+        {
+          "party": "FDP",
+          "value": 4.8
+        },
+        {
+          "party": "Left",
+          "value": 2.6
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 2.3
+        },
+        {
+          "party": "Free Voters",
+          "value": 1.7
+        },
+        {
+          "party": "bunt.saar",
+          "value": 1.4
+        },
+        {
+          "party": "dieBasis",
+          "value": 1.4
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 1
+        },
+        {
+          "party": "FAMILIE",
+          "value": 0.8
+        },
+        {
+          "party": "Volt",
+          "value": 0.6
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.3
+        },
+        {
+          "party": "Die Humanistien",
+          "value": 0.1
+        },
+        {
+          "party": "Gesundheitsforschung",
+          "value": 0.1
+        },
+        {
+          "party": "SGV",
+          "value": 0.1
+        },
+        {
+          "party": "ÖPD",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-10.html",
+      "turnout": 61.4
+    },
+    "11": {
+      "date": "2023-02-12",
+      "provisional": false,
+      "results": [
+        {
+          "party": "CDU",
+          "value": 28.2
+        },
+        {
+          "party": "Greens",
+          "value": 18.4
+        },
+        {
+          "party": "SPD",
+          "value": 18.4
+        },
+        {
+          "party": "Left",
+          "value": 12.2
+        },
+        {
+          "party": "AfD",
+          "value": 9.1
+        },
+        {
+          "party": "FDP",
+          "value": 4.6
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 2.4
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 1.4
+        },
+        {
+          "party": "Volt",
+          "value": 0.9
+        },
+        {
+          "party": "dieBasis",
+          "value": 0.5
+        },
+        {
+          "party": "Die Grauen",
+          "value": 0.4
+        },
+        {
+          "party": "Graue Panther",
+          "value": 0.4
+        },
+        {
+          "party": "Team Todenhöfer",
+          "value": 0.4
+        },
+        {
+          "party": "Free Voters",
+          "value": 0.3
+        },
+        {
+          "party": "Klimaliste Berlin",
+          "value": 0.3
+        },
+        {
+          "party": "MIETERPARTEI",
+          "value": 0.3
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.3
+        },
+        {
+          "party": "DKP",
+          "value": 0.2
+        },
+        {
+          "party": "Die Humanisten",
+          "value": 0.2
+        },
+        {
+          "party": "Gesundheitsforschung",
+          "value": 0.2
+        },
+        {
+          "party": "du.",
+          "value": 0.2
+        },
+        {
+          "party": "B",
+          "value": 0.1
+        },
+        {
+          "party": "Bildet Berlin!",
+          "value": 0.1
+        },
+        {
+          "party": "BÜNDNIS21",
+          "value": 0.1
+        },
+        {
+          "party": "NPD",
+          "value": 0.1
+        },
+        {
+          "party": "SGP",
+          "value": 0.1
+        },
+        {
+          "party": "ÖDP",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-11.html",
+      "turnout": 62.9
+    },
+    "12": {
+      "date": "2019-09-01",
+      "provisional": false,
+      "results": [
+        {
+          "party": "SPD",
+          "value": 26.2
+        },
+        {
+          "party": "AfD",
+          "value": 23.5
+        },
+        {
+          "party": "CDU",
+          "value": 15.6
+        },
+        {
+          "party": "GRÜNE/B 90",
+          "value": 10.8
+        },
+        {
+          "party": "Left",
+          "value": 10.7
+        },
+        {
+          "party": "BVB / FREIE WÄHLER",
+          "value": 5
+        },
+        {
+          "party": "FDP",
+          "value": 4.1
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 2.6
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.7
+        },
+        {
+          "party": "ÖDP",
+          "value": 0.6
+        },
+        {
+          "party": "V-Partei³",
+          "value": 0.2
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-12.html",
+      "turnout": 61.3
+    },
+    "13": {
+      "date": "2021-09-26",
+      "provisional": false,
+      "results": [
+        {
+          "party": "SPD",
+          "value": 39.6
+        },
+        {
+          "party": "AfD",
+          "value": 16.7
+        },
+        {
+          "party": "CDU",
+          "value": 13.3
+        },
+        {
+          "party": "Left",
+          "value": 9.9
+        },
+        {
+          "party": "Greens",
+          "value": 6.3
+        },
+        {
+          "party": "FDP",
+          "value": 5.8
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 1.7
+        },
+        {
+          "party": "dieBasis",
+          "value": 1.7
+        },
+        {
+          "party": "Free Voters",
+          "value": 1.1
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 0.8
+        },
+        {
+          "party": "NPD",
+          "value": 0.8
+        },
+        {
+          "party": "FREiER HORIZONT",
+          "value": 0.4
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.4
+        },
+        {
+          "party": "TIERSCHUTZ hier!",
+          "value": 0.4
+        },
+        {
+          "party": "UNABHÄNGIGE",
+          "value": 0.3
+        },
+        {
+          "party": "Gesundheitsforschung",
+          "value": 0.2
+        },
+        {
+          "party": "Team Todenhöfer",
+          "value": 0.2
+        },
+        {
+          "party": "Bündnis C",
+          "value": 0.1
+        },
+        {
+          "party": "DKP",
+          "value": 0.1
+        },
+        {
+          "party": "DiB",
+          "value": 0.1
+        },
+        {
+          "party": "Die Humanisten",
+          "value": 0.1
+        },
+        {
+          "party": "ÖDP",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-13.html",
+      "turnout": 70.8
+    },
+    "14": {
+      "date": "2024-09-01",
+      "provisional": false,
+      "results": [
+        {
+          "party": "CDU",
+          "value": 31.9
+        },
+        {
+          "party": "AfD",
+          "value": 30.6
+        },
+        {
+          "party": "BSW",
+          "value": 11.8
+        },
+        {
+          "party": "SPD",
+          "value": 7.3
+        },
+        {
+          "party": "Greens",
+          "value": 5.1
+        },
+        {
+          "party": "Left",
+          "value": 4.5
+        },
+        {
+          "party": "Free Voters",
+          "value": 2.3
+        },
+        {
+          "party": "FREIE SACHSEN",
+          "value": 2.2
+        },
+        {
+          "party": "TIERSCHUTZ hier!",
+          "value": 1
+        },
+        {
+          "party": "FDP",
+          "value": 0.9
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 0.8
+        },
+        {
+          "party": "BIW",
+          "value": 0.3
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.3
+        },
+        {
+          "party": "WU",
+          "value": 0.3
+        },
+        {
+          "party": "Bündnis C",
+          "value": 0.2
+        },
+        {
+          "party": "dieBasis",
+          "value": 0.2
+        },
+        {
+          "party": "BüSo",
+          "value": 0.1
+        },
+        {
+          "party": "V-Partei³",
+          "value": 0.1
+        },
+        {
+          "party": "ÖDP",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-14.html",
+      "turnout": 74.4
+    },
+    "15": {
+      "date": "2026-09-06",
+      "provisional": true,
+      "results": [
+        {
+          "party": "AfD",
+          "value": 43.8
+        },
+        {
+          "party": "CDU",
+          "value": 17.2
+        },
+        {
+          "party": "SPD",
+          "value": 9.3
+        },
+        {
+          "party": "Greens",
+          "value": 8.9
+        },
+        {
+          "party": "Left",
+          "value": 8.6
+        },
+        {
+          "party": "BSW",
+          "value": 5.3
+        },
+        {
+          "party": "FDP",
+          "value": 2.6
+        },
+        {
+          "party": "Free Voters",
+          "value": 1.2
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 1.1
+        },
+        {
+          "party": "Gartenpartei",
+          "value": 0.6
+        },
+        {
+          "party": "TIERSCHUTZALLIANZ",
+          "value": 0.6
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 0.3
+        },
+        {
+          "party": "Volt",
+          "value": 0.3
+        },
+        {
+          "party": "PdF",
+          "value": 0.2
+        },
+        {
+          "party": "dieBasis",
+          "value": 0.1
+        }
+      ],
+      "source": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt26/downloads.html",
+      "turnout": 77.8
+    },
+    "16": {
+      "date": "2024-09-01",
+      "provisional": false,
+      "results": [
+        {
+          "party": "AfD",
+          "value": 32.8
+        },
+        {
+          "party": "CDU",
+          "value": 23.6
+        },
+        {
+          "party": "BSW",
+          "value": 15.8
+        },
+        {
+          "party": "Left",
+          "value": 13.1
+        },
+        {
+          "party": "SPD",
+          "value": 6.1
+        },
+        {
+          "party": "Greens",
+          "value": 3.2
+        },
+        {
+          "party": "Free Voters",
+          "value": 1.3
+        },
+        {
+          "party": "FDP",
+          "value": 1.1
+        },
+        {
+          "party": "TIERSCHUTZ hier!",
+          "value": 1
+        },
+        {
+          "party": "WU",
+          "value": 0.6
+        },
+        {
+          "party": "FAMILIE",
+          "value": 0.5
+        },
+        {
+          "party": "BIW",
+          "value": 0.4
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.3
+        },
+        {
+          "party": "ÖDP / Familie ..",
+          "value": 0.2
+        },
+        {
+          "party": "MLPD",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-16.html",
+      "turnout": 73.6
+    },
+    "01": {
+      "date": "2022-05-08",
+      "provisional": false,
+      "results": [
+        {
+          "party": "CDU",
+          "value": 43.4
+        },
+        {
+          "party": "Greens",
+          "value": 18.3
+        },
+        {
+          "party": "SPD",
+          "value": 16
+        },
+        {
+          "party": "FDP",
+          "value": 6.4
+        },
+        {
+          "party": "SSW",
+          "value": 5.7
+        },
+        {
+          "party": "AfD",
+          "value": 4.4
+        },
+        {
+          "party": "Left",
+          "value": 1.7
+        },
+        {
+          "party": "dieBasis",
+          "value": 1.1
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 0.7
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 0.7
+        },
+        {
+          "party": "Free Voters",
+          "value": 0.6
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.3
+        },
+        {
+          "party": "Volt",
+          "value": 0.3
+        },
+        {
+          "party": "Die Humanisten",
+          "value": 0.1
+        },
+        {
+          "party": "Gesundheitsforschung",
+          "value": 0.1
+        },
+        {
+          "party": "Z.",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-1.html",
+      "turnout": 60.3
+    },
+    "02": {
+      "date": "2025-03-02",
+      "provisional": false,
+      "results": [
+        {
+          "party": "SPD",
+          "value": 33.5
+        },
+        {
+          "party": "CDU",
+          "value": 19.8
+        },
+        {
+          "party": "Greens",
+          "value": 18.5
+        },
+        {
+          "party": "Left",
+          "value": 11.2
+        },
+        {
+          "party": "AfD",
+          "value": 7.5
+        },
+        {
+          "party": "Volt",
+          "value": 3.2
+        },
+        {
+          "party": "FDP",
+          "value": 2.3
+        },
+        {
+          "party": "BSW",
+          "value": 1.8
+        },
+        {
+          "party": "DAVA-Hamburg",
+          "value": 0.6
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 0.6
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 0.4
+        },
+        {
+          "party": "Free Voters",
+          "value": 0.3
+        },
+        {
+          "party": "DieWahl - WFG",
+          "value": 0.2
+        },
+        {
+          "party": "ÖDP",
+          "value": 0.2
+        },
+        {
+          "party": "BIW",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-2.html",
+      "turnout": 67.6
+    },
+    "03": {
+      "date": "2022-10-09",
+      "provisional": false,
+      "results": [
+        {
+          "party": "SPD",
+          "value": 33.4
+        },
+        {
+          "party": "CDU",
+          "value": 28.1
+        },
+        {
+          "party": "Greens",
+          "value": 14.5
+        },
+        {
+          "party": "AfD",
+          "value": 11
+        },
+        {
+          "party": "FDP",
+          "value": 4.7
+        },
+        {
+          "party": "DIE LINKE.",
+          "value": 2.7
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 1.5
+        },
+        {
+          "party": "dieBasis",
+          "value": 1
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 0.9
+        },
+        {
+          "party": "Free Voters",
+          "value": 0.8
+        },
+        {
+          "party": "Volt",
+          "value": 0.5
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.4
+        },
+        {
+          "party": "Gesundheitsforschung",
+          "value": 0.3
+        },
+        {
+          "party": "Die Humanisten Niedersachsen",
+          "value": 0.2
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-3.html",
+      "turnout": 60.3
+    },
+    "04": {
+      "date": "2023-05-14",
+      "provisional": false,
+      "results": [
+        {
+          "party": "SPD",
+          "value": 29.8
+        },
+        {
+          "party": "CDU",
+          "value": 26.2
+        },
+        {
+          "party": "Greens",
+          "value": 11.9
+        },
+        {
+          "party": "Left",
+          "value": 10.9
+        },
+        {
+          "party": "BIW",
+          "value": 9.4
+        },
+        {
+          "party": "FDP",
+          "value": 5.1
+        },
+        {
+          "party": "Volt",
+          "value": 2
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 1.1
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 1
+        },
+        {
+          "party": "dieBasis",
+          "value": 0.8
+        },
+        {
+          "party": "MERA25",
+          "value": 0.6
+        },
+        {
+          "party": "GFA",
+          "value": 0.4
+        },
+        {
+          "party": "ÖDP",
+          "value": 0.4
+        },
+        {
+          "party": "MLPD",
+          "value": 0.2
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.2
+        },
+        {
+          "party": "Partei für schulmedizinische Verjüngungsforschung",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-4.html",
+      "turnout": 56.9
+    },
+    "05": {
+      "date": "2022-05-15",
+      "provisional": false,
+      "results": [
+        {
+          "party": "CDU",
+          "value": 35.7
+        },
+        {
+          "party": "SPD",
+          "value": 26.7
+        },
+        {
+          "party": "Greens",
+          "value": 18.2
+        },
+        {
+          "party": "FDP",
+          "value": 5.9
+        },
+        {
+          "party": "AfD",
+          "value": 5.4
+        },
+        {
+          "party": "Left",
+          "value": 2.1
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 1.1
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 1.1
+        },
+        {
+          "party": "dieBasis",
+          "value": 0.8
+        },
+        {
+          "party": "Free Voters",
+          "value": 0.7
+        },
+        {
+          "party": "Volt",
+          "value": 0.6
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.3
+        },
+        {
+          "party": "FAMILIE",
+          "value": 0.2
+        },
+        {
+          "party": "Team Todenhöfer",
+          "value": 0.2
+        },
+        {
+          "party": "BIG",
+          "value": 0.1
+        },
+        {
+          "party": "DSP",
+          "value": 0.1
+        },
+        {
+          "party": "Die Humanisten",
+          "value": 0.1
+        },
+        {
+          "party": "Die Urbane.",
+          "value": 0.1
+        },
+        {
+          "party": "Gesundheitsforschung",
+          "value": 0.1
+        },
+        {
+          "party": "LIEBE",
+          "value": 0.1
+        },
+        {
+          "party": "LfK",
+          "value": 0.1
+        },
+        {
+          "party": "PdF",
+          "value": 0.1
+        },
+        {
+          "party": "Volksabstimmung",
+          "value": 0.1
+        },
+        {
+          "party": "ZENTRUM",
+          "value": 0.1
+        },
+        {
+          "party": "ÖDP",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-5.html",
+      "turnout": 55.5
+    },
+    "06": {
+      "date": "2023-10-08",
+      "provisional": false,
+      "results": [
+        {
+          "party": "CDU",
+          "value": 34.6
+        },
+        {
+          "party": "AfD",
+          "value": 18.4
+        },
+        {
+          "party": "SPD",
+          "value": 15.1
+        },
+        {
+          "party": "Greens",
+          "value": 14.8
+        },
+        {
+          "party": "FDP",
+          "value": 5
+        },
+        {
+          "party": "Free Voters",
+          "value": 3.5
+        },
+        {
+          "party": "Left",
+          "value": 3.1
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 1.5
+        },
+        {
+          "party": "Volt",
+          "value": 1
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 0.8
+        },
+        {
+          "party": "dieBasis",
+          "value": 0.5
+        },
+        {
+          "party": "PIRATEN",
+          "value": 0.3
+        },
+        {
+          "party": "V-Partei³",
+          "value": 0.3
+        },
+        {
+          "party": "ABG",
+          "value": 0.2
+        },
+        {
+          "party": "KLIMALISTE WÄHLERLISTE",
+          "value": 0.2
+        },
+        {
+          "party": "PdH",
+          "value": 0.2
+        },
+        {
+          "party": "ÖDP",
+          "value": 0.2
+        },
+        {
+          "party": "APPD",
+          "value": 0.1
+        },
+        {
+          "party": "DKP",
+          "value": 0.1
+        },
+        {
+          "party": "Verjüngungsforschung",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-6.html",
+      "turnout": 66
+    },
+    "07": {
+      "date": "2026-03-22",
+      "provisional": false,
+      "results": [
+        {
+          "party": "CDU",
+          "value": 31
+        },
+        {
+          "party": "SPD",
+          "value": 25.9
+        },
+        {
+          "party": "AfD",
+          "value": 19.5
+        },
+        {
+          "party": "Greens",
+          "value": 7.9
+        },
+        {
+          "party": "Left",
+          "value": 4.4
+        },
+        {
+          "party": "Free Voters",
+          "value": 4.2
+        },
+        {
+          "party": "FDP",
+          "value": 2.1
+        },
+        {
+          "party": "BSW",
+          "value": 1.9
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 1.6
+        },
+        {
+          "party": "Volt",
+          "value": 1.1
+        },
+        {
+          "party": "ÖDP",
+          "value": 0.5
+        },
+        {
+          "party": "PdH",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-7.html",
+      "turnout": 68.4
+    },
+    "08": {
+      "date": "2026-03-08",
+      "provisional": false,
+      "results": [
+        {
+          "party": "Greens",
+          "value": 30.2
+        },
+        {
+          "party": "CDU",
+          "value": 29.7
+        },
+        {
+          "party": "AfD",
+          "value": 18.8
+        },
+        {
+          "party": "SPD",
+          "value": 5.5
+        },
+        {
+          "party": "FDP",
+          "value": 4.4
+        },
+        {
+          "party": "Left",
+          "value": 4.4
+        },
+        {
+          "party": "Free Voters",
+          "value": 1.9
+        },
+        {
+          "party": "BSW",
+          "value": 1.4
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 0.9
+        },
+        {
+          "party": "Volt",
+          "value": 0.9
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 0.4
+        },
+        {
+          "party": "dieBasis",
+          "value": 0.3
+        },
+        {
+          "party": "Bündnis C",
+          "value": 0.2
+        },
+        {
+          "party": "PDR",
+          "value": 0.2
+        },
+        {
+          "party": "WerteUnion",
+          "value": 0.2
+        },
+        {
+          "party": "ÖDP",
+          "value": 0.2
+        },
+        {
+          "party": "Die Gerechtigkeitspartei",
+          "value": 0.1
+        },
+        {
+          "party": "KlimalisteBW",
+          "value": 0.1
+        },
+        {
+          "party": "PdF",
+          "value": 0.1
+        },
+        {
+          "party": "Verjüngungsforschung",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-8.html",
+      "turnout": 69.6
+    },
+    "09": {
+      "date": "2023-10-08",
+      "provisional": false,
+      "results": [
+        {
+          "party": "CSU",
+          "value": 37
+        },
+        {
+          "party": "Free Voters",
+          "value": 15.8
+        },
+        {
+          "party": "AfD",
+          "value": 14.6
+        },
+        {
+          "party": "Greens",
+          "value": 14.4
+        },
+        {
+          "party": "SPD",
+          "value": 8.4
+        },
+        {
+          "party": "FDP",
+          "value": 3
+        },
+        {
+          "party": "ÖDP",
+          "value": 1.8
+        },
+        {
+          "party": "Left",
+          "value": 1.5
+        },
+        {
+          "party": "BP",
+          "value": 0.9
+        },
+        {
+          "party": "dieBasis",
+          "value": 0.9
+        },
+        {
+          "party": "Die PARTEI",
+          "value": 0.5
+        },
+        {
+          "party": "Tierschutzpartei",
+          "value": 0.5
+        },
+        {
+          "party": "Volt",
+          "value": 0.3
+        },
+        {
+          "party": "V-Partei³",
+          "value": 0.2
+        },
+        {
+          "party": "PdH",
+          "value": 0.1
+        }
+      ],
+      "source": "https://www.bundeswahlleiterin.de/en/service/landtagswahlen/land-9.html",
+      "turnout": 73.1
+    }
+  }
+}
