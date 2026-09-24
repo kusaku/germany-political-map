@@ -1,0 +1,7689 @@
+{
+  "elections": {
+    "1990": {
+      "date": "1990-12-02",
+      "label": "1990 Bundestag election",
+      "national": {
+        "results": [
+          {
+            "party": "CDU",
+            "value": 36.7
+          },
+          {
+            "party": "SPD",
+            "value": 33.5
+          },
+          {
+            "party": "FDP",
+            "value": 11
+          },
+          {
+            "party": "CSU",
+            "value": 7.1
+          },
+          {
+            "party": "Greens",
+            "value": 3.8
+          },
+          {
+            "party": "Left",
+            "value": 2.4
+          },
+          {
+            "party": "REP",
+            "value": 2.1
+          },
+          {
+            "party": "B90/Gr",
+            "value": 1.2
+          },
+          {
+            "party": "DIE GRAUEN",
+            "value": 0.8
+          },
+          {
+            "party": "ÖDP",
+            "value": 0.4
+          },
+          {
+            "party": "NPD",
+            "value": 0.3
+          },
+          {
+            "party": "DSU",
+            "value": 0.2
+          },
+          {
+            "party": "BP",
+            "value": 0.1
+          },
+          {
+            "party": "CM",
+            "value": 0.1
+          },
+          {
+            "party": "LIGA",
+            "value": 0.1
+          }
+        ],
+        "turnout": 77.8
+      },
+      "source": "https://www.bundeswahlleiterin.de/bundestagswahlen/1990.html",
+      "states": {
+        "10": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 51.2
+            },
+            {
+              "party": "CDU",
+              "value": 38.1
+            },
+            {
+              "party": "FDP",
+              "value": 6
+            },
+            {
+              "party": "Greens",
+              "value": 2.3
+            },
+            {
+              "party": "REP",
+              "value": 0.9
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.7
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "Left",
+              "value": 0.2
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.2
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            }
+          ],
+          "turnout": 85.1
+        },
+        "11": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 39.4
+            },
+            {
+              "party": "SPD",
+              "value": 30.6
+            },
+            {
+              "party": "Left",
+              "value": 9.7
+            },
+            {
+              "party": "FDP",
+              "value": 9.1
+            },
+            {
+              "party": "Greens",
+              "value": 3.9
+            },
+            {
+              "party": "B90/Gr",
+              "value": 3.3
+            },
+            {
+              "party": "REP",
+              "value": 2.5
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.8
+            },
+            {
+              "party": "DSU",
+              "value": 0.2
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.2
+            },
+            {
+              "party": "DDD",
+              "value": 0.1
+            },
+            {
+              "party": "NPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 80.6
+        },
+        "12": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 36.3
+            },
+            {
+              "party": "SPD",
+              "value": 32.9
+            },
+            {
+              "party": "Left",
+              "value": 11
+            },
+            {
+              "party": "FDP",
+              "value": 9.7
+            },
+            {
+              "party": "B90/Gr",
+              "value": 6.6
+            },
+            {
+              "party": "REP",
+              "value": 1.7
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.8
+            },
+            {
+              "party": "DSU",
+              "value": 0.4
+            },
+            {
+              "party": "NPD",
+              "value": 0.2
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.2
+            },
+            {
+              "party": "LIGA",
+              "value": 0.1
+            }
+          ],
+          "turnout": 73.8
+        },
+        "13": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 41.2
+            },
+            {
+              "party": "SPD",
+              "value": 26.5
+            },
+            {
+              "party": "Left",
+              "value": 14.2
+            },
+            {
+              "party": "FDP",
+              "value": 9.1
+            },
+            {
+              "party": "B90/Gr",
+              "value": 5.9
+            },
+            {
+              "party": "REP",
+              "value": 1.4
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.7
+            },
+            {
+              "party": "DSU",
+              "value": 0.3
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.2
+            }
+          ],
+          "turnout": 70.9
+        },
+        "14": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 49.5
+            },
+            {
+              "party": "SPD",
+              "value": 18.2
+            },
+            {
+              "party": "FDP",
+              "value": 12.4
+            },
+            {
+              "party": "Left",
+              "value": 9
+            },
+            {
+              "party": "B90/Gr",
+              "value": 5.9
+            },
+            {
+              "party": "DSU",
+              "value": 1.7
+            },
+            {
+              "party": "REP",
+              "value": 1.2
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 1
+            },
+            {
+              "party": "LIGA",
+              "value": 0.4
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.2
+            },
+            {
+              "party": "VAA",
+              "value": 0.1
+            }
+          ],
+          "turnout": 76.2
+        },
+        "15": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 38.6
+            },
+            {
+              "party": "SPD",
+              "value": 24.7
+            },
+            {
+              "party": "FDP",
+              "value": 19.7
+            },
+            {
+              "party": "Left",
+              "value": 9.4
+            },
+            {
+              "party": "B90/Gr",
+              "value": 5.3
+            },
+            {
+              "party": "REP",
+              "value": 1
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.6
+            },
+            {
+              "party": "DSU",
+              "value": 0.4
+            },
+            {
+              "party": "NPD",
+              "value": 0.2
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.1
+            }
+          ],
+          "turnout": 72.2
+        },
+        "16": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 45.2
+            },
+            {
+              "party": "SPD",
+              "value": 21.9
+            },
+            {
+              "party": "FDP",
+              "value": 14.6
+            },
+            {
+              "party": "Left",
+              "value": 8.3
+            },
+            {
+              "party": "B90/Gr",
+              "value": 6.1
+            },
+            {
+              "party": "DSU",
+              "value": 1.3
+            },
+            {
+              "party": "REP",
+              "value": 1.2
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.7
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "LIGA",
+              "value": 0.2
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.2
+            }
+          ],
+          "turnout": 76.4
+        },
+        "01": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 43.5
+            },
+            {
+              "party": "SPD",
+              "value": 38.5
+            },
+            {
+              "party": "FDP",
+              "value": 11.4
+            },
+            {
+              "party": "Greens",
+              "value": 4
+            },
+            {
+              "party": "REP",
+              "value": 1.2
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.6
+            },
+            {
+              "party": "Left",
+              "value": 0.3
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.2
+            }
+          ],
+          "turnout": 78.6
+        },
+        "02": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 41
+            },
+            {
+              "party": "CDU",
+              "value": 36.6
+            },
+            {
+              "party": "FDP",
+              "value": 12
+            },
+            {
+              "party": "Greens",
+              "value": 5.8
+            },
+            {
+              "party": "REP",
+              "value": 1.7
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 1.2
+            },
+            {
+              "party": "Left",
+              "value": 1.1
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.2
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            }
+          ],
+          "turnout": 78.2
+        },
+        "03": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 44.3
+            },
+            {
+              "party": "SPD",
+              "value": 38.4
+            },
+            {
+              "party": "FDP",
+              "value": 10.3
+            },
+            {
+              "party": "Greens",
+              "value": 4.5
+            },
+            {
+              "party": "REP",
+              "value": 1
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.6
+            },
+            {
+              "party": "Left",
+              "value": 0.3
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.1
+            },
+            {
+              "party": "ÖKO-Union",
+              "value": 0.1
+            }
+          ],
+          "turnout": 80.6
+        },
+        "04": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 42.5
+            },
+            {
+              "party": "CDU",
+              "value": 30.9
+            },
+            {
+              "party": "FDP",
+              "value": 12.8
+            },
+            {
+              "party": "Greens",
+              "value": 8.3
+            },
+            {
+              "party": "REP",
+              "value": 2.1
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 1.7
+            },
+            {
+              "party": "Left",
+              "value": 1.1
+            },
+            {
+              "party": "NPD",
+              "value": 0.4
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.2
+            }
+          ],
+          "turnout": 76.5
+        },
+        "05": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 41.1
+            },
+            {
+              "party": "CDU",
+              "value": 40.5
+            },
+            {
+              "party": "FDP",
+              "value": 11
+            },
+            {
+              "party": "Greens",
+              "value": 4.3
+            },
+            {
+              "party": "REP",
+              "value": 1.3
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.8
+            },
+            {
+              "party": "Left",
+              "value": 0.3
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.3
+            },
+            {
+              "party": "NPD",
+              "value": 0.2
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "Frauen",
+              "value": 0.1
+            }
+          ],
+          "turnout": 78.7
+        },
+        "06": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 41.3
+            },
+            {
+              "party": "SPD",
+              "value": 38
+            },
+            {
+              "party": "FDP",
+              "value": 10.9
+            },
+            {
+              "party": "Greens",
+              "value": 5.6
+            },
+            {
+              "party": "REP",
+              "value": 2.1
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.9
+            },
+            {
+              "party": "NPD",
+              "value": 0.6
+            },
+            {
+              "party": "Left",
+              "value": 0.4
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.3
+            }
+          ],
+          "turnout": 81.1
+        },
+        "07": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 45.6
+            },
+            {
+              "party": "SPD",
+              "value": 36.1
+            },
+            {
+              "party": "FDP",
+              "value": 10.4
+            },
+            {
+              "party": "Greens",
+              "value": 4
+            },
+            {
+              "party": "REP",
+              "value": 1.7
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.9
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.5
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "CM",
+              "value": 0.2
+            },
+            {
+              "party": "Left",
+              "value": 0.2
+            }
+          ],
+          "turnout": 81.7
+        },
+        "08": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 46.5
+            },
+            {
+              "party": "SPD",
+              "value": 29.1
+            },
+            {
+              "party": "FDP",
+              "value": 12.3
+            },
+            {
+              "party": "Greens",
+              "value": 5.7
+            },
+            {
+              "party": "REP",
+              "value": 3.2
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 1
+            },
+            {
+              "party": "ÖDP",
+              "value": 0.9
+            },
+            {
+              "party": "NPD",
+              "value": 0.6
+            },
+            {
+              "party": "Left",
+              "value": 0.3
+            },
+            {
+              "party": "LIGA",
+              "value": 0.3
+            },
+            {
+              "party": "CM",
+              "value": 0.2
+            }
+          ],
+          "turnout": 77.4
+        },
+        "09": {
+          "results": [
+            {
+              "party": "CSU",
+              "value": 51.9
+            },
+            {
+              "party": "SPD",
+              "value": 26.7
+            },
+            {
+              "party": "FDP",
+              "value": 8.7
+            },
+            {
+              "party": "REP",
+              "value": 5
+            },
+            {
+              "party": "Greens",
+              "value": 4.6
+            },
+            {
+              "party": "ÖDP",
+              "value": 1.2
+            },
+            {
+              "party": "DIE GRAUEN",
+              "value": 0.8
+            },
+            {
+              "party": "BP",
+              "value": 0.5
+            },
+            {
+              "party": "Left",
+              "value": 0.2
+            },
+            {
+              "party": "LIGA",
+              "value": 0.2
+            },
+            {
+              "party": "NPD",
+              "value": 0.2
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            }
+          ],
+          "turnout": 74.4
+        }
+      }
+    },
+    "1994": {
+      "date": "1994-10-16",
+      "label": "1994 Bundestag election",
+      "national": {
+        "results": [
+          {
+            "party": "SPD",
+            "value": 36.4
+          },
+          {
+            "party": "CDU",
+            "value": 34.2
+          },
+          {
+            "party": "CSU",
+            "value": 7.3
+          },
+          {
+            "party": "Greens",
+            "value": 7.3
+          },
+          {
+            "party": "FDP",
+            "value": 6.9
+          },
+          {
+            "party": "Left",
+            "value": 4.4
+          },
+          {
+            "party": "REP",
+            "value": 1.9
+          },
+          {
+            "party": "GRAUE",
+            "value": 0.5
+          },
+          {
+            "party": "ödp",
+            "value": 0.4
+          },
+          {
+            "party": "NATURGESETZ",
+            "value": 0.2
+          },
+          {
+            "party": "Tierschutz",
+            "value": 0.2
+          },
+          {
+            "party": "BP",
+            "value": 0.1
+          },
+          {
+            "party": "PBC",
+            "value": 0.1
+          },
+          {
+            "party": "STATT Partei",
+            "value": 0.1
+          }
+        ],
+        "turnout": 79
+      },
+      "source": "https://www.bundeswahlleiterin.de/bundestagswahlen/1994.html",
+      "states": {
+        "10": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 48.8
+            },
+            {
+              "party": "CDU",
+              "value": 37.2
+            },
+            {
+              "party": "Greens",
+              "value": 5.8
+            },
+            {
+              "party": "FDP",
+              "value": 4.3
+            },
+            {
+              "party": "REP",
+              "value": 1.6
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.7
+            },
+            {
+              "party": "Left",
+              "value": 0.7
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.3
+            },
+            {
+              "party": "STATT Partei",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            }
+          ],
+          "turnout": 83.5
+        },
+        "11": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 34
+            },
+            {
+              "party": "CDU",
+              "value": 31.4
+            },
+            {
+              "party": "Left",
+              "value": 14.8
+            },
+            {
+              "party": "Greens",
+              "value": 10.2
+            },
+            {
+              "party": "FDP",
+              "value": 5.2
+            },
+            {
+              "party": "REP",
+              "value": 1.9
+            },
+            {
+              "party": "GRAUE",
+              "value": 1.4
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.3
+            },
+            {
+              "party": "PASS",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            },
+            {
+              "party": "STATT Partei",
+              "value": 0.2
+            }
+          ],
+          "turnout": 78.6
+        },
+        "12": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 45.1
+            },
+            {
+              "party": "CDU",
+              "value": 28.1
+            },
+            {
+              "party": "Left",
+              "value": 19.3
+            },
+            {
+              "party": "Greens",
+              "value": 2.9
+            },
+            {
+              "party": "FDP",
+              "value": 2.6
+            },
+            {
+              "party": "REP",
+              "value": 1.1
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.4
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            },
+            {
+              "party": "STATT Partei",
+              "value": 0.1
+            }
+          ],
+          "turnout": 71.5
+        },
+        "13": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 38.5
+            },
+            {
+              "party": "SPD",
+              "value": 28.8
+            },
+            {
+              "party": "Left",
+              "value": 23.6
+            },
+            {
+              "party": "Greens",
+              "value": 3.6
+            },
+            {
+              "party": "FDP",
+              "value": 3.4
+            },
+            {
+              "party": "REP",
+              "value": 1.2
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 72.8
+        },
+        "14": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 48
+            },
+            {
+              "party": "SPD",
+              "value": 24.3
+            },
+            {
+              "party": "Left",
+              "value": 16.7
+            },
+            {
+              "party": "Greens",
+              "value": 4.8
+            },
+            {
+              "party": "FDP",
+              "value": 3.8
+            },
+            {
+              "party": "REP",
+              "value": 1.4
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "PBC",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            }
+          ],
+          "turnout": 72
+        },
+        "15": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 38.8
+            },
+            {
+              "party": "SPD",
+              "value": 33.4
+            },
+            {
+              "party": "Left",
+              "value": 18
+            },
+            {
+              "party": "FDP",
+              "value": 4.1
+            },
+            {
+              "party": "Greens",
+              "value": 3.6
+            },
+            {
+              "party": "REP",
+              "value": 1
+            },
+            {
+              "party": "PASS",
+              "value": 0.6
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 70.4
+        },
+        "16": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 41
+            },
+            {
+              "party": "SPD",
+              "value": 30.2
+            },
+            {
+              "party": "Left",
+              "value": 17.2
+            },
+            {
+              "party": "Greens",
+              "value": 4.9
+            },
+            {
+              "party": "FDP",
+              "value": 4.1
+            },
+            {
+              "party": "REP",
+              "value": 1.4
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "STATT Partei",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            },
+            {
+              "party": "BüSo",
+              "value": 0.1
+            }
+          ],
+          "turnout": 74.9
+        },
+        "01": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 41.5
+            },
+            {
+              "party": "SPD",
+              "value": 39.6
+            },
+            {
+              "party": "Greens",
+              "value": 8.3
+            },
+            {
+              "party": "FDP",
+              "value": 7.4
+            },
+            {
+              "party": "Left",
+              "value": 1.1
+            },
+            {
+              "party": "REP",
+              "value": 1
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            }
+          ],
+          "turnout": 80.9
+        },
+        "02": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 39.7
+            },
+            {
+              "party": "CDU",
+              "value": 34.9
+            },
+            {
+              "party": "Greens",
+              "value": 12.6
+            },
+            {
+              "party": "FDP",
+              "value": 7.2
+            },
+            {
+              "party": "Left",
+              "value": 2.2
+            },
+            {
+              "party": "REP",
+              "value": 1.7
+            },
+            {
+              "party": "GRAUE",
+              "value": 1.2
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            }
+          ],
+          "turnout": 79.7
+        },
+        "03": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 41.3
+            },
+            {
+              "party": "SPD",
+              "value": 40.6
+            },
+            {
+              "party": "FDP",
+              "value": 7.7
+            },
+            {
+              "party": "Greens",
+              "value": 7.1
+            },
+            {
+              "party": "REP",
+              "value": 1.2
+            },
+            {
+              "party": "Left",
+              "value": 1
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.4
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.3
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 81.8
+        },
+        "04": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 45.5
+            },
+            {
+              "party": "CDU",
+              "value": 30.2
+            },
+            {
+              "party": "Greens",
+              "value": 11.1
+            },
+            {
+              "party": "FDP",
+              "value": 7.2
+            },
+            {
+              "party": "Left",
+              "value": 2.7
+            },
+            {
+              "party": "REP",
+              "value": 1.7
+            },
+            {
+              "party": "GRAUE",
+              "value": 1.1
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 78.5
+        },
+        "05": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 43.1
+            },
+            {
+              "party": "CDU",
+              "value": 38
+            },
+            {
+              "party": "FDP",
+              "value": 7.6
+            },
+            {
+              "party": "Greens",
+              "value": 7.4
+            },
+            {
+              "party": "REP",
+              "value": 1.3
+            },
+            {
+              "party": "Left",
+              "value": 1
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.3
+            },
+            {
+              "party": "STATT Partei",
+              "value": 0.2
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            },
+            {
+              "party": "PBC",
+              "value": 0.1
+            }
+          ],
+          "turnout": 81.9
+        },
+        "06": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 40.7
+            },
+            {
+              "party": "SPD",
+              "value": 37.2
+            },
+            {
+              "party": "Greens",
+              "value": 9.3
+            },
+            {
+              "party": "FDP",
+              "value": 8.1
+            },
+            {
+              "party": "REP",
+              "value": 2.4
+            },
+            {
+              "party": "Left",
+              "value": 1.1
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            }
+          ],
+          "turnout": 82.3
+        },
+        "07": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 43.8
+            },
+            {
+              "party": "SPD",
+              "value": 39.4
+            },
+            {
+              "party": "FDP",
+              "value": 6.9
+            },
+            {
+              "party": "Greens",
+              "value": 6.2
+            },
+            {
+              "party": "REP",
+              "value": 1.9
+            },
+            {
+              "party": "Left",
+              "value": 0.6
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.4
+            },
+            {
+              "party": "ödp",
+              "value": 0.4
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.2
+            },
+            {
+              "party": "STATT Partei",
+              "value": 0.2
+            }
+          ],
+          "turnout": 82.3
+        },
+        "08": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 43.3
+            },
+            {
+              "party": "SPD",
+              "value": 30.7
+            },
+            {
+              "party": "FDP",
+              "value": 9.9
+            },
+            {
+              "party": "Greens",
+              "value": 9.6
+            },
+            {
+              "party": "REP",
+              "value": 3.1
+            },
+            {
+              "party": "Left",
+              "value": 0.8
+            },
+            {
+              "party": "ödp",
+              "value": 0.7
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "APD",
+              "value": 0.4
+            },
+            {
+              "party": "PBC",
+              "value": 0.4
+            },
+            {
+              "party": "CM",
+              "value": 0.2
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.2
+            },
+            {
+              "party": "STATT Partei",
+              "value": 0.2
+            }
+          ],
+          "turnout": 79.7
+        },
+        "09": {
+          "results": [
+            {
+              "party": "CSU",
+              "value": 51.2
+            },
+            {
+              "party": "SPD",
+              "value": 29.6
+            },
+            {
+              "party": "FDP",
+              "value": 6.4
+            },
+            {
+              "party": "Greens",
+              "value": 6.3
+            },
+            {
+              "party": "REP",
+              "value": 2.8
+            },
+            {
+              "party": "ödp",
+              "value": 1.2
+            },
+            {
+              "party": "BP",
+              "value": 0.6
+            },
+            {
+              "party": "Left",
+              "value": 0.5
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.4
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.3
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "LIGA",
+              "value": 0.1
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.1
+            },
+            {
+              "party": "PBC",
+              "value": 0.1
+            },
+            {
+              "party": "STATT Partei",
+              "value": 0.1
+            }
+          ],
+          "turnout": 76.9
+        }
+      }
+    },
+    "1998": {
+      "date": "1998-09-27",
+      "label": "1998 Bundestag election",
+      "national": {
+        "results": [
+          {
+            "party": "SPD",
+            "value": 40.9
+          },
+          {
+            "party": "CDU",
+            "value": 28.4
+          },
+          {
+            "party": "CSU",
+            "value": 6.7
+          },
+          {
+            "party": "Greens",
+            "value": 6.7
+          },
+          {
+            "party": "FDP",
+            "value": 6.2
+          },
+          {
+            "party": "Left",
+            "value": 5.1
+          },
+          {
+            "party": "REP",
+            "value": 1.8
+          },
+          {
+            "party": "DVU",
+            "value": 1.2
+          },
+          {
+            "party": "Pro DM",
+            "value": 0.9
+          },
+          {
+            "party": "GRAUE",
+            "value": 0.3
+          },
+          {
+            "party": "NPD",
+            "value": 0.3
+          },
+          {
+            "party": "Tierschutz",
+            "value": 0.3
+          },
+          {
+            "party": "BFB",
+            "value": 0.2
+          },
+          {
+            "party": "ödp",
+            "value": 0.2
+          },
+          {
+            "party": "APPD",
+            "value": 0.1
+          },
+          {
+            "party": "BP",
+            "value": 0.1
+          },
+          {
+            "party": "CHANCE 2000",
+            "value": 0.1
+          },
+          {
+            "party": "DIE FRAUEN",
+            "value": 0.1
+          },
+          {
+            "party": "FAMILIE",
+            "value": 0.1
+          },
+          {
+            "party": "NATURGESETZ",
+            "value": 0.1
+          },
+          {
+            "party": "PBC",
+            "value": 0.1
+          }
+        ],
+        "turnout": 82.2
+      },
+      "source": "https://www.bundeswahlleiterin.de/bundestagswahlen/1998.html",
+      "states": {
+        "10": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 52.4
+            },
+            {
+              "party": "CDU",
+              "value": 31.8
+            },
+            {
+              "party": "Greens",
+              "value": 5.5
+            },
+            {
+              "party": "FDP",
+              "value": 4.7
+            },
+            {
+              "party": "REP",
+              "value": 1.2
+            },
+            {
+              "party": "Left",
+              "value": 1
+            },
+            {
+              "party": "DVU",
+              "value": 0.9
+            },
+            {
+              "party": "FAMILIE",
+              "value": 0.5
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.5
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "APPD",
+              "value": 0.1
+            },
+            {
+              "party": "BFB",
+              "value": 0.1
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 84.8
+        },
+        "11": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 37.8
+            },
+            {
+              "party": "CDU",
+              "value": 23.7
+            },
+            {
+              "party": "Left",
+              "value": 13.4
+            },
+            {
+              "party": "Greens",
+              "value": 11.3
+            },
+            {
+              "party": "FDP",
+              "value": 4.9
+            },
+            {
+              "party": "REP",
+              "value": 2.4
+            },
+            {
+              "party": "DVU",
+              "value": 2.1
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.9
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.8
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.5
+            },
+            {
+              "party": "NPD",
+              "value": 0.4
+            },
+            {
+              "party": "APD",
+              "value": 0.3
+            },
+            {
+              "party": "BFB",
+              "value": 0.3
+            },
+            {
+              "party": "CHANCE 2000",
+              "value": 0.3
+            },
+            {
+              "party": "PASS",
+              "value": 0.3
+            },
+            {
+              "party": "APPD",
+              "value": 0.1
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.1
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 81.1
+        },
+        "12": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 35.3
+            },
+            {
+              "party": "CDU",
+              "value": 29.3
+            },
+            {
+              "party": "Left",
+              "value": 23.6
+            },
+            {
+              "party": "Greens",
+              "value": 2.9
+            },
+            {
+              "party": "DVU",
+              "value": 2.7
+            },
+            {
+              "party": "FDP",
+              "value": 2.2
+            },
+            {
+              "party": "Pro DM",
+              "value": 1.5
+            },
+            {
+              "party": "NPD",
+              "value": 1
+            },
+            {
+              "party": "REP",
+              "value": 0.6
+            },
+            {
+              "party": "AB 2000",
+              "value": 0.3
+            },
+            {
+              "party": "BFB",
+              "value": 0.2
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.2
+            },
+            {
+              "party": "CHANCE 2000",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 79.4
+        },
+        "13": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 43.5
+            },
+            {
+              "party": "CDU",
+              "value": 20.8
+            },
+            {
+              "party": "Left",
+              "value": 20.3
+            },
+            {
+              "party": "Greens",
+              "value": 3.6
+            },
+            {
+              "party": "FDP",
+              "value": 2.8
+            },
+            {
+              "party": "DVU",
+              "value": 2.7
+            },
+            {
+              "party": "Pro DM",
+              "value": 2.1
+            },
+            {
+              "party": "REP",
+              "value": 1.7
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.9
+            },
+            {
+              "party": "NPD",
+              "value": 0.8
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.4
+            },
+            {
+              "party": "BFB",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 78.1
+        },
+        "14": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 38.1
+            },
+            {
+              "party": "CDU",
+              "value": 27.2
+            },
+            {
+              "party": "Left",
+              "value": 20.7
+            },
+            {
+              "party": "FDP",
+              "value": 4.1
+            },
+            {
+              "party": "Greens",
+              "value": 3.3
+            },
+            {
+              "party": "DVU",
+              "value": 3.2
+            },
+            {
+              "party": "Pro DM",
+              "value": 1.9
+            },
+            {
+              "party": "REP",
+              "value": 0.6
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "PSG",
+              "value": 0.1
+            }
+          ],
+          "turnout": 77.1
+        },
+        "15": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 34.5
+            },
+            {
+              "party": "CDU",
+              "value": 28.9
+            },
+            {
+              "party": "Left",
+              "value": 21.2
+            },
+            {
+              "party": "Greens",
+              "value": 3.9
+            },
+            {
+              "party": "FDP",
+              "value": 3.4
+            },
+            {
+              "party": "DVU",
+              "value": 2.9
+            },
+            {
+              "party": "Pro DM",
+              "value": 2
+            },
+            {
+              "party": "REP",
+              "value": 1.6
+            },
+            {
+              "party": "BFB",
+              "value": 0.6
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.4
+            },
+            {
+              "party": "FORUM",
+              "value": 0.3
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.2
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            }
+          ],
+          "turnout": 82.3
+        },
+        "16": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 32.7
+            },
+            {
+              "party": "SPD",
+              "value": 29.1
+            },
+            {
+              "party": "Left",
+              "value": 20
+            },
+            {
+              "party": "Greens",
+              "value": 4.4
+            },
+            {
+              "party": "FDP",
+              "value": 3.6
+            },
+            {
+              "party": "Pro DM",
+              "value": 2.7
+            },
+            {
+              "party": "DVU",
+              "value": 2.6
+            },
+            {
+              "party": "REP",
+              "value": 1.9
+            },
+            {
+              "party": "NPD",
+              "value": 1.2
+            },
+            {
+              "party": "BFB",
+              "value": 0.5
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.4
+            },
+            {
+              "party": "PBC",
+              "value": 0.4
+            },
+            {
+              "party": "CHANCE 2000",
+              "value": 0.3
+            },
+            {
+              "party": "BüSo",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 81.6
+        },
+        "01": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 45.4
+            },
+            {
+              "party": "CDU",
+              "value": 35.7
+            },
+            {
+              "party": "FDP",
+              "value": 7.6
+            },
+            {
+              "party": "Greens",
+              "value": 6.5
+            },
+            {
+              "party": "Left",
+              "value": 1.5
+            },
+            {
+              "party": "DVU",
+              "value": 1.3
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.8
+            },
+            {
+              "party": "REP",
+              "value": 0.4
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.3
+            },
+            {
+              "party": "BFB",
+              "value": 0.2
+            },
+            {
+              "party": "NPD",
+              "value": 0.2
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 82.4
+        },
+        "02": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 45.7
+            },
+            {
+              "party": "CDU",
+              "value": 30
+            },
+            {
+              "party": "Greens",
+              "value": 10.8
+            },
+            {
+              "party": "FDP",
+              "value": 6.5
+            },
+            {
+              "party": "Left",
+              "value": 2.3
+            },
+            {
+              "party": "DVU",
+              "value": 2.1
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.6
+            },
+            {
+              "party": "REP",
+              "value": 0.6
+            },
+            {
+              "party": "BFB",
+              "value": 0.3
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.3
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.3
+            },
+            {
+              "party": "APPD",
+              "value": 0.2
+            },
+            {
+              "party": "CHANCE 2000",
+              "value": 0.1
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.1
+            },
+            {
+              "party": "NPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 81.1
+        },
+        "03": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 49.4
+            },
+            {
+              "party": "CDU",
+              "value": 34.1
+            },
+            {
+              "party": "FDP",
+              "value": 6.4
+            },
+            {
+              "party": "Greens",
+              "value": 5.9
+            },
+            {
+              "party": "Left",
+              "value": 1
+            },
+            {
+              "party": "REP",
+              "value": 0.9
+            },
+            {
+              "party": "DVU",
+              "value": 0.6
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.6
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.2
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.2
+            },
+            {
+              "party": "APPD",
+              "value": 0.1
+            },
+            {
+              "party": "BFB",
+              "value": 0.1
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.1
+            },
+            {
+              "party": "NPD",
+              "value": 0.1
+            },
+            {
+              "party": "PBC",
+              "value": 0.1
+            }
+          ],
+          "turnout": 83.9
+        },
+        "04": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 50.2
+            },
+            {
+              "party": "CDU",
+              "value": 25.4
+            },
+            {
+              "party": "Greens",
+              "value": 11.3
+            },
+            {
+              "party": "FDP",
+              "value": 5.9
+            },
+            {
+              "party": "Left",
+              "value": 2.4
+            },
+            {
+              "party": "DVU",
+              "value": 1.7
+            },
+            {
+              "party": "Pro DM",
+              "value": 1
+            },
+            {
+              "party": "REP",
+              "value": 0.7
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "APPD",
+              "value": 0.2
+            },
+            {
+              "party": "BFB",
+              "value": 0.2
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.2
+            },
+            {
+              "party": "CHANCE 2000",
+              "value": 0.1
+            }
+          ],
+          "turnout": 82.1
+        },
+        "05": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 46.9
+            },
+            {
+              "party": "CDU",
+              "value": 33.8
+            },
+            {
+              "party": "FDP",
+              "value": 7.3
+            },
+            {
+              "party": "Greens",
+              "value": 6.9
+            },
+            {
+              "party": "Left",
+              "value": 1.2
+            },
+            {
+              "party": "REP",
+              "value": 1
+            },
+            {
+              "party": "DVU",
+              "value": 0.9
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.5
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.3
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.3
+            },
+            {
+              "party": "FAMILIE",
+              "value": 0.2
+            },
+            {
+              "party": "APPD",
+              "value": 0.1
+            },
+            {
+              "party": "BFB",
+              "value": 0.1
+            },
+            {
+              "party": "CHANCE 2000",
+              "value": 0.1
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "Deutschland",
+              "value": 0.1
+            },
+            {
+              "party": "Nichtwähler",
+              "value": 0.1
+            },
+            {
+              "party": "NPD",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            },
+            {
+              "party": "PBC",
+              "value": 0.1
+            }
+          ],
+          "turnout": 83.9
+        },
+        "06": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 41.6
+            },
+            {
+              "party": "CDU",
+              "value": 34.7
+            },
+            {
+              "party": "Greens",
+              "value": 8.2
+            },
+            {
+              "party": "FDP",
+              "value": 7.9
+            },
+            {
+              "party": "REP",
+              "value": 2.3
+            },
+            {
+              "party": "Left",
+              "value": 1.5
+            },
+            {
+              "party": "DVU",
+              "value": 1
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.7
+            },
+            {
+              "party": "BFB",
+              "value": 0.6
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.4
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.3
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            },
+            {
+              "party": "APPD",
+              "value": 0.1
+            },
+            {
+              "party": "CHANCE 2000",
+              "value": 0.1
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.1
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 84.2
+        },
+        "07": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 41.3
+            },
+            {
+              "party": "CDU",
+              "value": 39.1
+            },
+            {
+              "party": "FDP",
+              "value": 7.1
+            },
+            {
+              "party": "Greens",
+              "value": 6.1
+            },
+            {
+              "party": "REP",
+              "value": 2.2
+            },
+            {
+              "party": "Left",
+              "value": 1
+            },
+            {
+              "party": "DVU",
+              "value": 0.7
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.7
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.5
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.3
+            },
+            {
+              "party": "BFB",
+              "value": 0.2
+            },
+            {
+              "party": "NPD",
+              "value": 0.2
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.1
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.1
+            }
+          ],
+          "turnout": 83.9
+        },
+        "08": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 37.8
+            },
+            {
+              "party": "SPD",
+              "value": 35.6
+            },
+            {
+              "party": "Greens",
+              "value": 9.2
+            },
+            {
+              "party": "FDP",
+              "value": 8.8
+            },
+            {
+              "party": "REP",
+              "value": 4
+            },
+            {
+              "party": "Left",
+              "value": 1
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.7
+            },
+            {
+              "party": "DVU",
+              "value": 0.6
+            },
+            {
+              "party": "ödp",
+              "value": 0.4
+            },
+            {
+              "party": "PBC",
+              "value": 0.4
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.4
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.3
+            },
+            {
+              "party": "NPD",
+              "value": 0.2
+            },
+            {
+              "party": "APPD",
+              "value": 0.1
+            },
+            {
+              "party": "BFB",
+              "value": 0.1
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.1
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.1
+            }
+          ],
+          "turnout": 83.1
+        },
+        "09": {
+          "results": [
+            {
+              "party": "CSU",
+              "value": 47.7
+            },
+            {
+              "party": "SPD",
+              "value": 34.4
+            },
+            {
+              "party": "Greens",
+              "value": 5.9
+            },
+            {
+              "party": "FDP",
+              "value": 5.1
+            },
+            {
+              "party": "REP",
+              "value": 2.6
+            },
+            {
+              "party": "Left",
+              "value": 0.7
+            },
+            {
+              "party": "ödp",
+              "value": 0.7
+            },
+            {
+              "party": "DVU",
+              "value": 0.6
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.5
+            },
+            {
+              "party": "BFB",
+              "value": 0.4
+            },
+            {
+              "party": "BP",
+              "value": 0.4
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.3
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.2
+            },
+            {
+              "party": "APPD",
+              "value": 0.1
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.1
+            },
+            {
+              "party": "NATURGESETZ",
+              "value": 0.1
+            },
+            {
+              "party": "NPD",
+              "value": 0.1
+            },
+            {
+              "party": "PBC",
+              "value": 0.1
+            }
+          ],
+          "turnout": 79.2
+        }
+      }
+    },
+    "2002": {
+      "date": "2002-09-22",
+      "label": "2002 Bundestag election",
+      "national": {
+        "results": [
+          {
+            "party": "SPD",
+            "value": 38.5
+          },
+          {
+            "party": "CDU",
+            "value": 29.5
+          },
+          {
+            "party": "CSU",
+            "value": 9
+          },
+          {
+            "party": "Greens",
+            "value": 8.6
+          },
+          {
+            "party": "FDP",
+            "value": 7.4
+          },
+          {
+            "party": "Left",
+            "value": 4
+          },
+          {
+            "party": "Schill",
+            "value": 0.8
+          },
+          {
+            "party": "REP",
+            "value": 0.6
+          },
+          {
+            "party": "NPD",
+            "value": 0.4
+          },
+          {
+            "party": "Tierschutz",
+            "value": 0.3
+          },
+          {
+            "party": "GRAUE",
+            "value": 0.2
+          },
+          {
+            "party": "PBC",
+            "value": 0.2
+          },
+          {
+            "party": "DIE FRAUEN",
+            "value": 0.1
+          },
+          {
+            "party": "FAMILIE",
+            "value": 0.1
+          },
+          {
+            "party": "ödp",
+            "value": 0.1
+          }
+        ],
+        "turnout": 79.1
+      },
+      "source": "https://www.bundeswahlleiterin.de/bundestagswahlen/2002.html",
+      "states": {
+        "10": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 46
+            },
+            {
+              "party": "CDU",
+              "value": 35
+            },
+            {
+              "party": "Greens",
+              "value": 7.6
+            },
+            {
+              "party": "FDP",
+              "value": 6.4
+            },
+            {
+              "party": "Left",
+              "value": 1.4
+            },
+            {
+              "party": "FAMILIE",
+              "value": 1.1
+            },
+            {
+              "party": "Schill",
+              "value": 0.9
+            },
+            {
+              "party": "NPD",
+              "value": 0.7
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "REP",
+              "value": 0.4
+            }
+          ],
+          "turnout": 80
+        },
+        "11": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 36.6
+            },
+            {
+              "party": "CDU",
+              "value": 25.9
+            },
+            {
+              "party": "Greens",
+              "value": 14.6
+            },
+            {
+              "party": "Left",
+              "value": 11.4
+            },
+            {
+              "party": "FDP",
+              "value": 6.6
+            },
+            {
+              "party": "Schill",
+              "value": 1.8
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.8
+            },
+            {
+              "party": "REP",
+              "value": 0.7
+            },
+            {
+              "party": "NPD",
+              "value": 0.6
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.4
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            },
+            {
+              "party": "BüSo",
+              "value": 0.1
+            },
+            {
+              "party": "HP",
+              "value": 0.1
+            },
+            {
+              "party": "KPD",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 77.6
+        },
+        "12": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 46.4
+            },
+            {
+              "party": "CDU",
+              "value": 22.3
+            },
+            {
+              "party": "Left",
+              "value": 17.2
+            },
+            {
+              "party": "FDP",
+              "value": 5.8
+            },
+            {
+              "party": "Greens",
+              "value": 4.5
+            },
+            {
+              "party": "Schill",
+              "value": 1.7
+            },
+            {
+              "party": "NPD",
+              "value": 1.5
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.6
+            }
+          ],
+          "turnout": 73.7
+        },
+        "13": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 41.7
+            },
+            {
+              "party": "CDU",
+              "value": 30.3
+            },
+            {
+              "party": "Left",
+              "value": 16.3
+            },
+            {
+              "party": "FDP",
+              "value": 5.4
+            },
+            {
+              "party": "Greens",
+              "value": 3.5
+            },
+            {
+              "party": "Schill",
+              "value": 1.6
+            },
+            {
+              "party": "NPD",
+              "value": 0.8
+            },
+            {
+              "party": "REP",
+              "value": 0.3
+            }
+          ],
+          "turnout": 70.6
+        },
+        "14": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 33.6
+            },
+            {
+              "party": "SPD",
+              "value": 33.3
+            },
+            {
+              "party": "Left",
+              "value": 16.2
+            },
+            {
+              "party": "FDP",
+              "value": 7.3
+            },
+            {
+              "party": "Greens",
+              "value": 4.6
+            },
+            {
+              "party": "NPD",
+              "value": 1.4
+            },
+            {
+              "party": "Schill",
+              "value": 1.2
+            },
+            {
+              "party": "REP",
+              "value": 1
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.6
+            },
+            {
+              "party": "PBC",
+              "value": 0.6
+            },
+            {
+              "party": "BüSo",
+              "value": 0.3
+            }
+          ],
+          "turnout": 73.7
+        },
+        "15": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 43.2
+            },
+            {
+              "party": "CDU",
+              "value": 29
+            },
+            {
+              "party": "Left",
+              "value": 14.4
+            },
+            {
+              "party": "FDP",
+              "value": 7.6
+            },
+            {
+              "party": "Greens",
+              "value": 3.4
+            },
+            {
+              "party": "NPD",
+              "value": 1
+            },
+            {
+              "party": "Tierschutz",
+              "value": 1
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.4
+            }
+          ],
+          "turnout": 68.8
+        },
+        "16": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 39.9
+            },
+            {
+              "party": "CDU",
+              "value": 29.4
+            },
+            {
+              "party": "Left",
+              "value": 17
+            },
+            {
+              "party": "FDP",
+              "value": 5.9
+            },
+            {
+              "party": "Greens",
+              "value": 4.3
+            },
+            {
+              "party": "Schill",
+              "value": 1.3
+            },
+            {
+              "party": "NPD",
+              "value": 0.9
+            },
+            {
+              "party": "REP",
+              "value": 0.8
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.4
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            }
+          ],
+          "turnout": 74.8
+        },
+        "01": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 42.9
+            },
+            {
+              "party": "CDU",
+              "value": 36
+            },
+            {
+              "party": "Greens",
+              "value": 9.4
+            },
+            {
+              "party": "FDP",
+              "value": 8
+            },
+            {
+              "party": "Schill",
+              "value": 1.5
+            },
+            {
+              "party": "Left",
+              "value": 1.3
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.2
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            },
+            {
+              "party": "REP",
+              "value": 0.1
+            }
+          ],
+          "turnout": 80.7
+        },
+        "02": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 42
+            },
+            {
+              "party": "CDU",
+              "value": 28.1
+            },
+            {
+              "party": "Greens",
+              "value": 16.2
+            },
+            {
+              "party": "FDP",
+              "value": 6.8
+            },
+            {
+              "party": "Schill",
+              "value": 4.2
+            },
+            {
+              "party": "Left",
+              "value": 2.1
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.2
+            },
+            {
+              "party": "NPD",
+              "value": 0.2
+            },
+            {
+              "party": "BüSo",
+              "value": 0.1
+            },
+            {
+              "party": "REP",
+              "value": 0.1
+            }
+          ],
+          "turnout": 79.6
+        },
+        "03": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 47.8
+            },
+            {
+              "party": "CDU",
+              "value": 34.5
+            },
+            {
+              "party": "Greens",
+              "value": 7.3
+            },
+            {
+              "party": "FDP",
+              "value": 7.1
+            },
+            {
+              "party": "Left",
+              "value": 1
+            },
+            {
+              "party": "Schill",
+              "value": 0.9
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.4
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "REP",
+              "value": 0.3
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.1
+            }
+          ],
+          "turnout": 81
+        },
+        "04": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 48.6
+            },
+            {
+              "party": "CDU",
+              "value": 24.6
+            },
+            {
+              "party": "Greens",
+              "value": 15
+            },
+            {
+              "party": "FDP",
+              "value": 6.7
+            },
+            {
+              "party": "Left",
+              "value": 2.2
+            },
+            {
+              "party": "Schill",
+              "value": 1.7
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "NPD",
+              "value": 0.5
+            },
+            {
+              "party": "REP",
+              "value": 0.2
+            }
+          ],
+          "turnout": 78.8
+        },
+        "05": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 43
+            },
+            {
+              "party": "CDU",
+              "value": 35.1
+            },
+            {
+              "party": "FDP",
+              "value": 9.3
+            },
+            {
+              "party": "Greens",
+              "value": 8.9
+            },
+            {
+              "party": "Left",
+              "value": 1.2
+            },
+            {
+              "party": "Schill",
+              "value": 0.7
+            },
+            {
+              "party": "REP",
+              "value": 0.4
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.4
+            },
+            {
+              "party": "FAMILIE",
+              "value": 0.2
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.2
+            },
+            {
+              "party": "NPD",
+              "value": 0.2
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.1
+            },
+            {
+              "party": "PBC",
+              "value": 0.1
+            }
+          ],
+          "turnout": 80.3
+        },
+        "06": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 39.7
+            },
+            {
+              "party": "CDU",
+              "value": 37.1
+            },
+            {
+              "party": "Greens",
+              "value": 10.7
+            },
+            {
+              "party": "FDP",
+              "value": 8.2
+            },
+            {
+              "party": "Left",
+              "value": 1.3
+            },
+            {
+              "party": "REP",
+              "value": 0.8
+            },
+            {
+              "party": "Schill",
+              "value": 0.7
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.5
+            },
+            {
+              "party": "NPD",
+              "value": 0.4
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.2
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 80.1
+        },
+        "07": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 40.2
+            },
+            {
+              "party": "SPD",
+              "value": 38.2
+            },
+            {
+              "party": "FDP",
+              "value": 9.3
+            },
+            {
+              "party": "Greens",
+              "value": 7.9
+            },
+            {
+              "party": "Left",
+              "value": 1
+            },
+            {
+              "party": "REP",
+              "value": 1
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.8
+            },
+            {
+              "party": "Schill",
+              "value": 0.6
+            },
+            {
+              "party": "NPD",
+              "value": 0.4
+            },
+            {
+              "party": "PBC",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            }
+          ],
+          "turnout": 80
+        },
+        "08": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 42.8
+            },
+            {
+              "party": "SPD",
+              "value": 33.5
+            },
+            {
+              "party": "Greens",
+              "value": 11.4
+            },
+            {
+              "party": "FDP",
+              "value": 7.8
+            },
+            {
+              "party": "REP",
+              "value": 1.1
+            },
+            {
+              "party": "Left",
+              "value": 0.9
+            },
+            {
+              "party": "PBC",
+              "value": 0.5
+            },
+            {
+              "party": "Schill",
+              "value": 0.5
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.5
+            },
+            {
+              "party": "NPD",
+              "value": 0.3
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.2
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.2
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "PRG",
+              "value": 0.1
+            }
+          ],
+          "turnout": 81.1
+        },
+        "09": {
+          "results": [
+            {
+              "party": "CSU",
+              "value": 58.6
+            },
+            {
+              "party": "SPD",
+              "value": 26.1
+            },
+            {
+              "party": "Greens",
+              "value": 7.6
+            },
+            {
+              "party": "FDP",
+              "value": 4.5
+            },
+            {
+              "party": "Left",
+              "value": 0.7
+            },
+            {
+              "party": "REP",
+              "value": 0.7
+            },
+            {
+              "party": "ödp",
+              "value": 0.4
+            },
+            {
+              "party": "Tierschutz",
+              "value": 0.3
+            },
+            {
+              "party": "NPD",
+              "value": 0.2
+            },
+            {
+              "party": "Schill",
+              "value": 0.2
+            },
+            {
+              "party": "AUFBRUCH",
+              "value": 0.1
+            },
+            {
+              "party": "BP",
+              "value": 0.1
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.1
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.1
+            },
+            {
+              "party": "PBC",
+              "value": 0.1
+            }
+          ],
+          "turnout": 81.5
+        }
+      }
+    },
+    "2005": {
+      "date": "2005-09-18",
+      "label": "2005 Bundestag election",
+      "national": {
+        "results": [
+          {
+            "party": "SPD",
+            "value": 34.2
+          },
+          {
+            "party": "CDU",
+            "value": 27.8
+          },
+          {
+            "party": "FDP",
+            "value": 9.8
+          },
+          {
+            "party": "Die Linke.",
+            "value": 8.7
+          },
+          {
+            "party": "Greens",
+            "value": 8.1
+          },
+          {
+            "party": "CSU",
+            "value": 7.4
+          },
+          {
+            "party": "NPD",
+            "value": 1.6
+          },
+          {
+            "party": "REP",
+            "value": 0.6
+          },
+          {
+            "party": "FAMILIE",
+            "value": 0.4
+          },
+          {
+            "party": "GRAUE",
+            "value": 0.4
+          },
+          {
+            "party": "Die Tierschutzpartei",
+            "value": 0.2
+          },
+          {
+            "party": "PBC",
+            "value": 0.2
+          },
+          {
+            "party": "BP",
+            "value": 0.1
+          },
+          {
+            "party": "BüSo",
+            "value": 0.1
+          },
+          {
+            "party": "DIE FRAUEN",
+            "value": 0.1
+          },
+          {
+            "party": "MLPD",
+            "value": 0.1
+          }
+        ],
+        "turnout": 77.7
+      },
+      "source": "https://www.bundeswahlleiterin.de/bundestagswahlen/2005.html",
+      "states": {
+        "10": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 33.3
+            },
+            {
+              "party": "CDU",
+              "value": 30.2
+            },
+            {
+              "party": "Die Linke.",
+              "value": 18.5
+            },
+            {
+              "party": "FDP",
+              "value": 7.4
+            },
+            {
+              "party": "Greens",
+              "value": 5.9
+            },
+            {
+              "party": "FAMILIE",
+              "value": 2.1
+            },
+            {
+              "party": "NPD",
+              "value": 1.8
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.7
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 79.4
+        },
+        "11": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 34.3
+            },
+            {
+              "party": "CDU",
+              "value": 22
+            },
+            {
+              "party": "Die Linke.",
+              "value": 16.4
+            },
+            {
+              "party": "Greens",
+              "value": 13.7
+            },
+            {
+              "party": "FDP",
+              "value": 8.2
+            },
+            {
+              "party": "GRAUE",
+              "value": 1.9
+            },
+            {
+              "party": "NPD",
+              "value": 1.6
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.5
+            },
+            {
+              "party": "REP",
+              "value": 0.5
+            },
+            {
+              "party": "Die PARTEI",
+              "value": 0.4
+            },
+            {
+              "party": "APPD",
+              "value": 0.2
+            },
+            {
+              "party": "BüSo",
+              "value": 0.2
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            },
+            {
+              "party": "PSG",
+              "value": 0.1
+            }
+          ],
+          "turnout": 77.4
+        },
+        "12": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 35.8
+            },
+            {
+              "party": "Die Linke.",
+              "value": 26.6
+            },
+            {
+              "party": "CDU",
+              "value": 20.6
+            },
+            {
+              "party": "FDP",
+              "value": 6.9
+            },
+            {
+              "party": "Greens",
+              "value": 5.1
+            },
+            {
+              "party": "NPD",
+              "value": 3.2
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.9
+            },
+            {
+              "party": "50Plus",
+              "value": 0.7
+            },
+            {
+              "party": "MLPD",
+              "value": 0.2
+            }
+          ],
+          "turnout": 74.9
+        },
+        "13": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 31.7
+            },
+            {
+              "party": "CDU",
+              "value": 29.6
+            },
+            {
+              "party": "Die Linke.",
+              "value": 23.7
+            },
+            {
+              "party": "FDP",
+              "value": 6.3
+            },
+            {
+              "party": "Greens",
+              "value": 4
+            },
+            {
+              "party": "NPD",
+              "value": 3.5
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.7
+            },
+            {
+              "party": "MLPD",
+              "value": 0.3
+            },
+            {
+              "party": "PBC",
+              "value": 0.3
+            }
+          ],
+          "turnout": 71.2
+        },
+        "14": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 30
+            },
+            {
+              "party": "SPD",
+              "value": 24.5
+            },
+            {
+              "party": "Die Linke.",
+              "value": 22.8
+            },
+            {
+              "party": "FDP",
+              "value": 10.2
+            },
+            {
+              "party": "Greens",
+              "value": 4.8
+            },
+            {
+              "party": "NPD",
+              "value": 4.8
+            },
+            {
+              "party": "AGFG",
+              "value": 0.8
+            },
+            {
+              "party": "BüSo",
+              "value": 0.6
+            },
+            {
+              "party": "PBC",
+              "value": 0.6
+            },
+            {
+              "party": "REP",
+              "value": 0.5
+            },
+            {
+              "party": "PSG",
+              "value": 0.2
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 75.7
+        },
+        "15": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 32.7
+            },
+            {
+              "party": "Die Linke.",
+              "value": 26.6
+            },
+            {
+              "party": "CDU",
+              "value": 24.7
+            },
+            {
+              "party": "FDP",
+              "value": 8.1
+            },
+            {
+              "party": "Greens",
+              "value": 4.1
+            },
+            {
+              "party": "NPD",
+              "value": 2.5
+            },
+            {
+              "party": "MLPD",
+              "value": 0.4
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.4
+            },
+            {
+              "party": "REP",
+              "value": 0.3
+            },
+            {
+              "party": "Offensive D",
+              "value": 0.2
+            }
+          ],
+          "turnout": 71
+        },
+        "16": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 29.8
+            },
+            {
+              "party": "Die Linke.",
+              "value": 26.1
+            },
+            {
+              "party": "CDU",
+              "value": 25.7
+            },
+            {
+              "party": "FDP",
+              "value": 7.9
+            },
+            {
+              "party": "Greens",
+              "value": 4.8
+            },
+            {
+              "party": "NPD",
+              "value": 3.7
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.9
+            },
+            {
+              "party": "REP",
+              "value": 0.7
+            },
+            {
+              "party": "MLPD",
+              "value": 0.4
+            }
+          ],
+          "turnout": 75.5
+        },
+        "01": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 38.2
+            },
+            {
+              "party": "CDU",
+              "value": 36.4
+            },
+            {
+              "party": "FDP",
+              "value": 10.1
+            },
+            {
+              "party": "Greens",
+              "value": 8.4
+            },
+            {
+              "party": "Die Linke.",
+              "value": 4.6
+            },
+            {
+              "party": "FAMILIE",
+              "value": 1.2
+            },
+            {
+              "party": "NPD",
+              "value": 1
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 79.1
+        },
+        "02": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 38.7
+            },
+            {
+              "party": "CDU",
+              "value": 28.9
+            },
+            {
+              "party": "Greens",
+              "value": 14.9
+            },
+            {
+              "party": "FDP",
+              "value": 9
+            },
+            {
+              "party": "Die Linke.",
+              "value": 6.3
+            },
+            {
+              "party": "NPD",
+              "value": 1
+            },
+            {
+              "party": "Die Tierschutzpartei",
+              "value": 0.7
+            },
+            {
+              "party": "Die PARTEI",
+              "value": 0.3
+            },
+            {
+              "party": "APPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 77.5
+        },
+        "03": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 43.2
+            },
+            {
+              "party": "CDU",
+              "value": 33.6
+            },
+            {
+              "party": "FDP",
+              "value": 8.9
+            },
+            {
+              "party": "Greens",
+              "value": 7.4
+            },
+            {
+              "party": "Die Linke.",
+              "value": 4.3
+            },
+            {
+              "party": "NPD",
+              "value": 1.3
+            },
+            {
+              "party": "Die Tierschutzpartei",
+              "value": 0.6
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.4
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.1
+            }
+          ],
+          "turnout": 79.4
+        },
+        "04": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 42.9
+            },
+            {
+              "party": "CDU",
+              "value": 22.8
+            },
+            {
+              "party": "Greens",
+              "value": 14.3
+            },
+            {
+              "party": "Die Linke.",
+              "value": 8.4
+            },
+            {
+              "party": "FDP",
+              "value": 8.1
+            },
+            {
+              "party": "NPD",
+              "value": 1.5
+            },
+            {
+              "party": "GRAUE",
+              "value": 1.1
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.4
+            },
+            {
+              "party": "PBC",
+              "value": 0.3
+            },
+            {
+              "party": "Pro DM",
+              "value": 0.2
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 75.5
+        },
+        "05": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 40
+            },
+            {
+              "party": "CDU",
+              "value": 34.4
+            },
+            {
+              "party": "FDP",
+              "value": 10
+            },
+            {
+              "party": "Greens",
+              "value": 7.6
+            },
+            {
+              "party": "Die Linke.",
+              "value": 5.2
+            },
+            {
+              "party": "NPD",
+              "value": 0.8
+            },
+            {
+              "party": "Die Tierschutzpartei",
+              "value": 0.5
+            },
+            {
+              "party": "FAMILIE",
+              "value": 0.4
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.4
+            },
+            {
+              "party": "REP",
+              "value": 0.3
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            },
+            {
+              "party": "Deutschland",
+              "value": 0.1
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 78.3
+        },
+        "06": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 35.6
+            },
+            {
+              "party": "CDU",
+              "value": 33.7
+            },
+            {
+              "party": "FDP",
+              "value": 11.7
+            },
+            {
+              "party": "Greens",
+              "value": 10.1
+            },
+            {
+              "party": "Die Linke.",
+              "value": 5.3
+            },
+            {
+              "party": "NPD",
+              "value": 1.2
+            },
+            {
+              "party": "Die Tierschutzpartei",
+              "value": 0.8
+            },
+            {
+              "party": "REP",
+              "value": 0.8
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "BüSo",
+              "value": 0.1
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            },
+            {
+              "party": "PSG",
+              "value": 0.1
+            }
+          ],
+          "turnout": 78.7
+        },
+        "07": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 36.9
+            },
+            {
+              "party": "SPD",
+              "value": 34.6
+            },
+            {
+              "party": "FDP",
+              "value": 11.7
+            },
+            {
+              "party": "Greens",
+              "value": 7.3
+            },
+            {
+              "party": "Die Linke.",
+              "value": 5.6
+            },
+            {
+              "party": "NPD",
+              "value": 1.3
+            },
+            {
+              "party": "FAMILIE",
+              "value": 1.1
+            },
+            {
+              "party": "REP",
+              "value": 1.1
+            },
+            {
+              "party": "PBC",
+              "value": 0.4
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 78.7
+        },
+        "08": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 39.2
+            },
+            {
+              "party": "SPD",
+              "value": 30.1
+            },
+            {
+              "party": "FDP",
+              "value": 11.9
+            },
+            {
+              "party": "Greens",
+              "value": 10.7
+            },
+            {
+              "party": "Die Linke.",
+              "value": 3.8
+            },
+            {
+              "party": "NPD",
+              "value": 1.1
+            },
+            {
+              "party": "REP",
+              "value": 1.1
+            },
+            {
+              "party": "FAMILIE",
+              "value": 0.8
+            },
+            {
+              "party": "PBC",
+              "value": 0.6
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.5
+            },
+            {
+              "party": "BüSo",
+              "value": 0.1
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 78.7
+        },
+        "09": {
+          "results": [
+            {
+              "party": "CSU",
+              "value": 49.2
+            },
+            {
+              "party": "SPD",
+              "value": 25.5
+            },
+            {
+              "party": "FDP",
+              "value": 9.5
+            },
+            {
+              "party": "Greens",
+              "value": 7.9
+            },
+            {
+              "party": "Die Linke.",
+              "value": 3.4
+            },
+            {
+              "party": "NPD",
+              "value": 1.3
+            },
+            {
+              "party": "REP",
+              "value": 1
+            },
+            {
+              "party": "FAMILIE",
+              "value": 0.6
+            },
+            {
+              "party": "BP",
+              "value": 0.5
+            },
+            {
+              "party": "GRAUE",
+              "value": 0.3
+            },
+            {
+              "party": "DIE FRAUEN",
+              "value": 0.2
+            },
+            {
+              "party": "PBC",
+              "value": 0.2
+            },
+            {
+              "party": "BüSo",
+              "value": 0.1
+            }
+          ],
+          "turnout": 77.9
+        }
+      }
+    },
+    "2009": {
+      "date": "2009-09-27",
+      "label": "2009 Bundestag election",
+      "national": {
+        "results": [
+          {
+            "party": "CDU",
+            "value": 27.3
+          },
+          {
+            "party": "SPD",
+            "value": 23
+          },
+          {
+            "party": "FDP",
+            "value": 14.6
+          },
+          {
+            "party": "Left",
+            "value": 11.9
+          },
+          {
+            "party": "Greens",
+            "value": 10.7
+          },
+          {
+            "party": "CSU",
+            "value": 6.5
+          },
+          {
+            "party": "PIRATEN",
+            "value": 2
+          },
+          {
+            "party": "NPD",
+            "value": 1.5
+          },
+          {
+            "party": "Die Tierschutzpartei",
+            "value": 0.5
+          },
+          {
+            "party": "REP",
+            "value": 0.4
+          },
+          {
+            "party": "FAMILIE",
+            "value": 0.3
+          },
+          {
+            "party": "ödp",
+            "value": 0.3
+          },
+          {
+            "party": "RRP",
+            "value": 0.2
+          },
+          {
+            "party": "BP",
+            "value": 0.1
+          },
+          {
+            "party": "BüSo",
+            "value": 0.1
+          },
+          {
+            "party": "DIE VIOLETTEN",
+            "value": 0.1
+          },
+          {
+            "party": "DVU",
+            "value": 0.1
+          },
+          {
+            "party": "MLPD",
+            "value": 0.1
+          },
+          {
+            "party": "PBC",
+            "value": 0.1
+          },
+          {
+            "party": "RENTNER",
+            "value": 0.1
+          },
+          {
+            "party": "Volksabstimmung",
+            "value": 0.1
+          }
+        ],
+        "turnout": 70.8
+      },
+      "source": "https://www.bundeswahlleiterin.de/bundestagswahlen/2009.html",
+      "states": {
+        "10": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 30.7
+            },
+            {
+              "party": "SPD",
+              "value": 24.7
+            },
+            {
+              "party": "Left",
+              "value": 21.2
+            },
+            {
+              "party": "FDP",
+              "value": 11.9
+            },
+            {
+              "party": "Greens",
+              "value": 6.8
+            },
+            {
+              "party": "FAMILIE",
+              "value": 1.5
+            },
+            {
+              "party": "PIRATEN",
+              "value": 1.5
+            },
+            {
+              "party": "NPD",
+              "value": 1.3
+            },
+            {
+              "party": "RRP",
+              "value": 0.5
+            }
+          ],
+          "turnout": 73.7
+        },
+        "11": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 22.8
+            },
+            {
+              "party": "Left",
+              "value": 20.2
+            },
+            {
+              "party": "SPD",
+              "value": 20.2
+            },
+            {
+              "party": "Greens",
+              "value": 17.4
+            },
+            {
+              "party": "FDP",
+              "value": 11.5
+            },
+            {
+              "party": "PIRATEN",
+              "value": 3.4
+            },
+            {
+              "party": "NPD",
+              "value": 1.6
+            },
+            {
+              "party": "Die Tierschutzpartei",
+              "value": 1.4
+            },
+            {
+              "party": "BüSo",
+              "value": 0.3
+            },
+            {
+              "party": "DIE VIOLETTEN",
+              "value": 0.3
+            },
+            {
+              "party": "REP",
+              "value": 0.3
+            },
+            {
+              "party": "ödp",
+              "value": 0.2
+            },
+            {
+              "party": "DKP",
+              "value": 0.1
+            },
+            {
+              "party": "DVU",
+              "value": 0.1
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            },
+            {
+              "party": "PSG",
+              "value": 0.1
+            }
+          ],
+          "turnout": 70.9
+        },
+        "12": {
+          "results": [
+            {
+              "party": "Left",
+              "value": 28.5
+            },
+            {
+              "party": "SPD",
+              "value": 25.1
+            },
+            {
+              "party": "CDU",
+              "value": 23.6
+            },
+            {
+              "party": "FDP",
+              "value": 9.3
+            },
+            {
+              "party": "Greens",
+              "value": 6.1
+            },
+            {
+              "party": "NPD",
+              "value": 2.6
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2.5
+            },
+            {
+              "party": "DVU",
+              "value": 0.9
+            },
+            {
+              "party": "FWD",
+              "value": 0.8
+            },
+            {
+              "party": "BüSo",
+              "value": 0.2
+            },
+            {
+              "party": "REP",
+              "value": 0.2
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 67
+        },
+        "13": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 33.1
+            },
+            {
+              "party": "Left",
+              "value": 29
+            },
+            {
+              "party": "SPD",
+              "value": 16.6
+            },
+            {
+              "party": "FDP",
+              "value": 9.8
+            },
+            {
+              "party": "Greens",
+              "value": 5.5
+            },
+            {
+              "party": "NPD",
+              "value": 3.3
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2.3
+            },
+            {
+              "party": "MLPD",
+              "value": 0.2
+            },
+            {
+              "party": "REP",
+              "value": 0.2
+            }
+          ],
+          "turnout": 63
+        },
+        "14": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 35.6
+            },
+            {
+              "party": "Left",
+              "value": 24.5
+            },
+            {
+              "party": "SPD",
+              "value": 14.6
+            },
+            {
+              "party": "FDP",
+              "value": 13.3
+            },
+            {
+              "party": "Greens",
+              "value": 6.7
+            },
+            {
+              "party": "NPD",
+              "value": 4
+            },
+            {
+              "party": "BüSo",
+              "value": 0.8
+            },
+            {
+              "party": "REP",
+              "value": 0.3
+            },
+            {
+              "party": "MLPD",
+              "value": 0.2
+            }
+          ],
+          "turnout": 65
+        },
+        "15": {
+          "results": [
+            {
+              "party": "Left",
+              "value": 32.4
+            },
+            {
+              "party": "CDU",
+              "value": 30.1
+            },
+            {
+              "party": "SPD",
+              "value": 16.9
+            },
+            {
+              "party": "FDP",
+              "value": 10.3
+            },
+            {
+              "party": "Greens",
+              "value": 5.1
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2.4
+            },
+            {
+              "party": "NPD",
+              "value": 2.2
+            },
+            {
+              "party": "DVU",
+              "value": 0.3
+            },
+            {
+              "party": "MLPD",
+              "value": 0.3
+            }
+          ],
+          "turnout": 60.5
+        },
+        "16": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 31.2
+            },
+            {
+              "party": "Left",
+              "value": 28.8
+            },
+            {
+              "party": "SPD",
+              "value": 17.6
+            },
+            {
+              "party": "FDP",
+              "value": 9.8
+            },
+            {
+              "party": "Greens",
+              "value": 6
+            },
+            {
+              "party": "NPD",
+              "value": 3.2
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2.5
+            },
+            {
+              "party": "ödp",
+              "value": 0.4
+            },
+            {
+              "party": "REP",
+              "value": 0.4
+            },
+            {
+              "party": "MLPD",
+              "value": 0.2
+            }
+          ],
+          "turnout": 65.2
+        },
+        "01": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 32.2
+            },
+            {
+              "party": "SPD",
+              "value": 26.8
+            },
+            {
+              "party": "FDP",
+              "value": 16.3
+            },
+            {
+              "party": "Greens",
+              "value": 12.7
+            },
+            {
+              "party": "Left",
+              "value": 7.9
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2.1
+            },
+            {
+              "party": "NPD",
+              "value": 1
+            },
+            {
+              "party": "RENTNER",
+              "value": 1
+            },
+            {
+              "party": "DVU",
+              "value": 0.1
+            }
+          ],
+          "turnout": 73.6
+        },
+        "02": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 27.8
+            },
+            {
+              "party": "SPD",
+              "value": 27.4
+            },
+            {
+              "party": "Greens",
+              "value": 15.6
+            },
+            {
+              "party": "FDP",
+              "value": 13.2
+            },
+            {
+              "party": "Left",
+              "value": 11.2
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2.6
+            },
+            {
+              "party": "NPD",
+              "value": 0.9
+            },
+            {
+              "party": "RENTNER",
+              "value": 0.7
+            },
+            {
+              "party": "ödp",
+              "value": 0.3
+            },
+            {
+              "party": "DVU",
+              "value": 0.1
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 71.3
+        },
+        "03": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 33.2
+            },
+            {
+              "party": "SPD",
+              "value": 29.3
+            },
+            {
+              "party": "FDP",
+              "value": 13.3
+            },
+            {
+              "party": "Greens",
+              "value": 10.7
+            },
+            {
+              "party": "Left",
+              "value": 8.6
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2
+            },
+            {
+              "party": "NPD",
+              "value": 1.2
+            },
+            {
+              "party": "Die Tierschutzpartei",
+              "value": 0.8
+            },
+            {
+              "party": "RRP",
+              "value": 0.7
+            },
+            {
+              "party": "DVU",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            }
+          ],
+          "turnout": 73.3
+        },
+        "04": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 30.2
+            },
+            {
+              "party": "CDU",
+              "value": 23.9
+            },
+            {
+              "party": "Greens",
+              "value": 15.4
+            },
+            {
+              "party": "Left",
+              "value": 14.3
+            },
+            {
+              "party": "FDP",
+              "value": 10.6
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2.4
+            },
+            {
+              "party": "RRP",
+              "value": 1.2
+            },
+            {
+              "party": "NPD",
+              "value": 1.1
+            },
+            {
+              "party": "DVU",
+              "value": 0.3
+            },
+            {
+              "party": "PBC",
+              "value": 0.3
+            },
+            {
+              "party": "REP",
+              "value": 0.2
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 70.3
+        },
+        "05": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 33.1
+            },
+            {
+              "party": "SPD",
+              "value": 28.5
+            },
+            {
+              "party": "FDP",
+              "value": 14.9
+            },
+            {
+              "party": "Greens",
+              "value": 10.1
+            },
+            {
+              "party": "Left",
+              "value": 8.4
+            },
+            {
+              "party": "PIRATEN",
+              "value": 1.7
+            },
+            {
+              "party": "NPD",
+              "value": 0.9
+            },
+            {
+              "party": "Die Tierschutzpartei",
+              "value": 0.6
+            },
+            {
+              "party": "FAMILIE",
+              "value": 0.5
+            },
+            {
+              "party": "RENTNER",
+              "value": 0.4
+            },
+            {
+              "party": "REP",
+              "value": 0.3
+            },
+            {
+              "party": "DVU",
+              "value": 0.1
+            },
+            {
+              "party": "ödp",
+              "value": 0.1
+            },
+            {
+              "party": "RRP",
+              "value": 0.1
+            },
+            {
+              "party": "Volksabstimmung",
+              "value": 0.1
+            },
+            {
+              "party": "ZENTRUM",
+              "value": 0.1
+            }
+          ],
+          "turnout": 71.4
+        },
+        "06": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 32.2
+            },
+            {
+              "party": "SPD",
+              "value": 25.6
+            },
+            {
+              "party": "FDP",
+              "value": 16.6
+            },
+            {
+              "party": "Greens",
+              "value": 12
+            },
+            {
+              "party": "Left",
+              "value": 8.5
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2.1
+            },
+            {
+              "party": "NPD",
+              "value": 1.1
+            },
+            {
+              "party": "Die Tierschutzpartei",
+              "value": 1
+            },
+            {
+              "party": "REP",
+              "value": 0.6
+            },
+            {
+              "party": "BüSo",
+              "value": 0.1
+            },
+            {
+              "party": "DVU",
+              "value": 0.1
+            }
+          ],
+          "turnout": 73.8
+        },
+        "07": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 35
+            },
+            {
+              "party": "SPD",
+              "value": 23.8
+            },
+            {
+              "party": "FDP",
+              "value": 16.6
+            },
+            {
+              "party": "Greens",
+              "value": 9.7
+            },
+            {
+              "party": "Left",
+              "value": 9.4
+            },
+            {
+              "party": "PIRATEN",
+              "value": 1.9
+            },
+            {
+              "party": "NPD",
+              "value": 1.2
+            },
+            {
+              "party": "FAMILIE",
+              "value": 1
+            },
+            {
+              "party": "REP",
+              "value": 0.8
+            },
+            {
+              "party": "ödp",
+              "value": 0.3
+            },
+            {
+              "party": "PBC",
+              "value": 0.3
+            },
+            {
+              "party": "DVU",
+              "value": 0.1
+            }
+          ],
+          "turnout": 72
+        },
+        "08": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 34.4
+            },
+            {
+              "party": "SPD",
+              "value": 19.3
+            },
+            {
+              "party": "FDP",
+              "value": 18.8
+            },
+            {
+              "party": "Greens",
+              "value": 13.9
+            },
+            {
+              "party": "Left",
+              "value": 7.2
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2.1
+            },
+            {
+              "party": "NPD",
+              "value": 1.1
+            },
+            {
+              "party": "REP",
+              "value": 0.9
+            },
+            {
+              "party": "Die Tierschutzpartei",
+              "value": 0.7
+            },
+            {
+              "party": "ödp",
+              "value": 0.5
+            },
+            {
+              "party": "PBC",
+              "value": 0.4
+            },
+            {
+              "party": "Volksabstimmung",
+              "value": 0.3
+            },
+            {
+              "party": "DIE VIOLETTEN",
+              "value": 0.2
+            },
+            {
+              "party": "ADM",
+              "value": 0.1
+            },
+            {
+              "party": "BüSo",
+              "value": 0.1
+            },
+            {
+              "party": "DVU",
+              "value": 0.1
+            },
+            {
+              "party": "MLPD",
+              "value": 0.1
+            }
+          ],
+          "turnout": 72.4
+        },
+        "09": {
+          "results": [
+            {
+              "party": "CSU",
+              "value": 42.5
+            },
+            {
+              "party": "SPD",
+              "value": 16.8
+            },
+            {
+              "party": "FDP",
+              "value": 14.7
+            },
+            {
+              "party": "Greens",
+              "value": 10.8
+            },
+            {
+              "party": "Left",
+              "value": 6.5
+            },
+            {
+              "party": "PIRATEN",
+              "value": 2
+            },
+            {
+              "party": "NPD",
+              "value": 1.3
+            },
+            {
+              "party": "ödp",
+              "value": 1.1
+            },
+            {
+              "party": "REP",
+              "value": 0.8
+            },
+            {
+              "party": "BP",
+              "value": 0.7
+            },
+            {
+              "party": "FAMILIE",
+              "value": 0.7
+            },
+            {
+              "party": "RRP",
+              "value": 0.7
+            },
+            {
+              "party": "Die Tierschutzpartei",
+              "value": 0.6
+            },
+            {
+              "party": "DIE VIOLETTEN",
+              "value": 0.2
+            },
+            {
+              "party": "CM",
+              "value": 0.1
+            },
+            {
+              "party": "DVU",
+              "value": 0.1
+            },
+            {
+              "party": "PBC",
+              "value": 0.1
+            }
+          ],
+          "turnout": 71.6
+        }
+      }
+    },
+    "2013": {
+      "date": "2013-09-22",
+      "label": "2013 Bundestag election",
+      "national": {
+        "results": [
+          {
+            "party": "CDU",
+            "value": 34.1
+          },
+          {
+            "party": "SPD",
+            "value": 25.7
+          },
+          {
+            "party": "Others",
+            "value": 10.9
+          },
+          {
+            "party": "Left",
+            "value": 8.6
+          },
+          {
+            "party": "Greens",
+            "value": 8.4
+          },
+          {
+            "party": "CSU",
+            "value": 7.4
+          },
+          {
+            "party": "FDP",
+            "value": 4.8
+          }
+        ],
+        "turnout": 71.5
+      },
+      "source": "https://www.bundeswahlleiterin.de/bundestagswahlen/2013/ergebnisse.html",
+      "states": {
+        "10": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 37.8
+            },
+            {
+              "party": "SPD",
+              "value": 31
+            },
+            {
+              "party": "Others",
+              "value": 11.7
+            },
+            {
+              "party": "Left",
+              "value": 10
+            },
+            {
+              "party": "Greens",
+              "value": 5.7
+            },
+            {
+              "party": "FDP",
+              "value": 3.8
+            }
+          ],
+          "turnout": 72.5
+        },
+        "11": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 28.5
+            },
+            {
+              "party": "SPD",
+              "value": 24.6
+            },
+            {
+              "party": "Left",
+              "value": 18.5
+            },
+            {
+              "party": "Others",
+              "value": 12.6
+            },
+            {
+              "party": "Greens",
+              "value": 12.3
+            },
+            {
+              "party": "FDP",
+              "value": 3.6
+            }
+          ],
+          "turnout": 72.5
+        },
+        "12": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 34.8
+            },
+            {
+              "party": "SPD",
+              "value": 23.1
+            },
+            {
+              "party": "Left",
+              "value": 22.4
+            },
+            {
+              "party": "Others",
+              "value": 12.4
+            },
+            {
+              "party": "Greens",
+              "value": 4.7
+            },
+            {
+              "party": "FDP",
+              "value": 2.5
+            }
+          ],
+          "turnout": 68.4
+        },
+        "13": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 42.5
+            },
+            {
+              "party": "Left",
+              "value": 21.5
+            },
+            {
+              "party": "SPD",
+              "value": 17.8
+            },
+            {
+              "party": "Others",
+              "value": 11.6
+            },
+            {
+              "party": "Greens",
+              "value": 4.3
+            },
+            {
+              "party": "FDP",
+              "value": 2.2
+            }
+          ],
+          "turnout": 65.3
+        },
+        "14": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 42.6
+            },
+            {
+              "party": "Left",
+              "value": 20
+            },
+            {
+              "party": "Others",
+              "value": 14.8
+            },
+            {
+              "party": "SPD",
+              "value": 14.6
+            },
+            {
+              "party": "Greens",
+              "value": 4.9
+            },
+            {
+              "party": "FDP",
+              "value": 3.1
+            }
+          ],
+          "turnout": 69.5
+        },
+        "15": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 41.2
+            },
+            {
+              "party": "Left",
+              "value": 23.9
+            },
+            {
+              "party": "SPD",
+              "value": 18.2
+            },
+            {
+              "party": "Others",
+              "value": 10
+            },
+            {
+              "party": "Greens",
+              "value": 4
+            },
+            {
+              "party": "FDP",
+              "value": 2.6
+            }
+          ],
+          "turnout": 62.1
+        },
+        "16": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 38.8
+            },
+            {
+              "party": "Left",
+              "value": 23.4
+            },
+            {
+              "party": "SPD",
+              "value": 16.1
+            },
+            {
+              "party": "Others",
+              "value": 14.2
+            },
+            {
+              "party": "Greens",
+              "value": 4.9
+            },
+            {
+              "party": "FDP",
+              "value": 2.6
+            }
+          ],
+          "turnout": 68.2
+        },
+        "01": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 39.2
+            },
+            {
+              "party": "SPD",
+              "value": 31.5
+            },
+            {
+              "party": "Greens",
+              "value": 9.4
+            },
+            {
+              "party": "Others",
+              "value": 9
+            },
+            {
+              "party": "FDP",
+              "value": 5.6
+            },
+            {
+              "party": "Left",
+              "value": 5.2
+            }
+          ],
+          "turnout": 73.1
+        },
+        "02": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 32.4
+            },
+            {
+              "party": "CDU",
+              "value": 32.1
+            },
+            {
+              "party": "Greens",
+              "value": 12.7
+            },
+            {
+              "party": "Others",
+              "value": 9.2
+            },
+            {
+              "party": "Left",
+              "value": 8.8
+            },
+            {
+              "party": "FDP",
+              "value": 4.8
+            }
+          ],
+          "turnout": 70.3
+        },
+        "03": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 41.1
+            },
+            {
+              "party": "SPD",
+              "value": 33.1
+            },
+            {
+              "party": "Greens",
+              "value": 8.8
+            },
+            {
+              "party": "Others",
+              "value": 7.8
+            },
+            {
+              "party": "Left",
+              "value": 5
+            },
+            {
+              "party": "FDP",
+              "value": 4.2
+            }
+          ],
+          "turnout": 73.4
+        },
+        "04": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 35.6
+            },
+            {
+              "party": "CDU",
+              "value": 29.3
+            },
+            {
+              "party": "Greens",
+              "value": 12.1
+            },
+            {
+              "party": "Left",
+              "value": 10.1
+            },
+            {
+              "party": "Others",
+              "value": 9.5
+            },
+            {
+              "party": "FDP",
+              "value": 3.4
+            }
+          ],
+          "turnout": 68.8
+        },
+        "05": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 39.8
+            },
+            {
+              "party": "SPD",
+              "value": 31.9
+            },
+            {
+              "party": "Others",
+              "value": 9
+            },
+            {
+              "party": "Greens",
+              "value": 8
+            },
+            {
+              "party": "Left",
+              "value": 6.1
+            },
+            {
+              "party": "FDP",
+              "value": 5.2
+            }
+          ],
+          "turnout": 72.5
+        },
+        "06": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 39.2
+            },
+            {
+              "party": "SPD",
+              "value": 28.8
+            },
+            {
+              "party": "Others",
+              "value": 10.5
+            },
+            {
+              "party": "Greens",
+              "value": 9.9
+            },
+            {
+              "party": "Left",
+              "value": 6
+            },
+            {
+              "party": "FDP",
+              "value": 5.6
+            }
+          ],
+          "turnout": 73.2
+        },
+        "07": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 43.3
+            },
+            {
+              "party": "SPD",
+              "value": 27.5
+            },
+            {
+              "party": "Others",
+              "value": 10.6
+            },
+            {
+              "party": "Greens",
+              "value": 7.6
+            },
+            {
+              "party": "FDP",
+              "value": 5.5
+            },
+            {
+              "party": "Left",
+              "value": 5.4
+            }
+          ],
+          "turnout": 72.8
+        },
+        "08": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 45.7
+            },
+            {
+              "party": "SPD",
+              "value": 20.6
+            },
+            {
+              "party": "Others",
+              "value": 11.7
+            },
+            {
+              "party": "Greens",
+              "value": 11
+            },
+            {
+              "party": "FDP",
+              "value": 6.2
+            },
+            {
+              "party": "Left",
+              "value": 4.8
+            }
+          ],
+          "turnout": 74.3
+        },
+        "09": {
+          "results": [
+            {
+              "party": "CSU",
+              "value": 49.3
+            },
+            {
+              "party": "SPD",
+              "value": 20
+            },
+            {
+              "party": "Others",
+              "value": 13.5
+            },
+            {
+              "party": "Greens",
+              "value": 8.4
+            },
+            {
+              "party": "FDP",
+              "value": 5.1
+            },
+            {
+              "party": "Left",
+              "value": 3.8
+            }
+          ],
+          "turnout": 70
+        }
+      }
+    },
+    "2017": {
+      "date": "2017-09-24",
+      "label": "2017 Bundestag election",
+      "national": {
+        "results": [
+          {
+            "party": "CDU",
+            "value": 26.8
+          },
+          {
+            "party": "SPD",
+            "value": 20.5
+          },
+          {
+            "party": "AfD",
+            "value": 12.6
+          },
+          {
+            "party": "FDP",
+            "value": 10.7
+          },
+          {
+            "party": "Left",
+            "value": 9.2
+          },
+          {
+            "party": "Greens",
+            "value": 8.9
+          },
+          {
+            "party": "CSU",
+            "value": 6.2
+          },
+          {
+            "party": "Others",
+            "value": 5
+          }
+        ],
+        "turnout": 76.2
+      },
+      "source": "https://www.bundeswahlleiterin.de/bundestagswahlen/2017/ergebnisse.html",
+      "states": {
+        "10": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 32.4
+            },
+            {
+              "party": "SPD",
+              "value": 27.1
+            },
+            {
+              "party": "Left",
+              "value": 12.9
+            },
+            {
+              "party": "AfD",
+              "value": 10.1
+            },
+            {
+              "party": "FDP",
+              "value": 7.6
+            },
+            {
+              "party": "Greens",
+              "value": 6
+            },
+            {
+              "party": "Others",
+              "value": 3.9
+            }
+          ],
+          "turnout": 76.6
+        },
+        "11": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 22.7
+            },
+            {
+              "party": "Left",
+              "value": 18.8
+            },
+            {
+              "party": "SPD",
+              "value": 17.9
+            },
+            {
+              "party": "Greens",
+              "value": 12.6
+            },
+            {
+              "party": "AfD",
+              "value": 12
+            },
+            {
+              "party": "FDP",
+              "value": 8.9
+            },
+            {
+              "party": "Others",
+              "value": 7.1
+            }
+          ],
+          "turnout": 75.6
+        },
+        "12": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 26.7
+            },
+            {
+              "party": "AfD",
+              "value": 20.2
+            },
+            {
+              "party": "SPD",
+              "value": 17.6
+            },
+            {
+              "party": "Left",
+              "value": 17.2
+            },
+            {
+              "party": "FDP",
+              "value": 7.1
+            },
+            {
+              "party": "Others",
+              "value": 6.3
+            },
+            {
+              "party": "Greens",
+              "value": 5
+            }
+          ],
+          "turnout": 73.7
+        },
+        "13": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 33.1
+            },
+            {
+              "party": "AfD",
+              "value": 18.6
+            },
+            {
+              "party": "Left",
+              "value": 17.8
+            },
+            {
+              "party": "SPD",
+              "value": 15.1
+            },
+            {
+              "party": "FDP",
+              "value": 6.2
+            },
+            {
+              "party": "Others",
+              "value": 4.9
+            },
+            {
+              "party": "Greens",
+              "value": 4.3
+            }
+          ],
+          "turnout": 70.9
+        },
+        "14": {
+          "results": [
+            {
+              "party": "AfD",
+              "value": 27
+            },
+            {
+              "party": "CDU",
+              "value": 26.9
+            },
+            {
+              "party": "Left",
+              "value": 16.1
+            },
+            {
+              "party": "SPD",
+              "value": 10.5
+            },
+            {
+              "party": "FDP",
+              "value": 8.2
+            },
+            {
+              "party": "Others",
+              "value": 6.7
+            },
+            {
+              "party": "Greens",
+              "value": 4.6
+            }
+          ],
+          "turnout": 75.4
+        },
+        "15": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 30.3
+            },
+            {
+              "party": "AfD",
+              "value": 19.6
+            },
+            {
+              "party": "Left",
+              "value": 17.7
+            },
+            {
+              "party": "SPD",
+              "value": 15.2
+            },
+            {
+              "party": "FDP",
+              "value": 7.8
+            },
+            {
+              "party": "Others",
+              "value": 5.7
+            },
+            {
+              "party": "Greens",
+              "value": 3.7
+            }
+          ],
+          "turnout": 68.1
+        },
+        "16": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 28.8
+            },
+            {
+              "party": "AfD",
+              "value": 22.7
+            },
+            {
+              "party": "Left",
+              "value": 16.9
+            },
+            {
+              "party": "SPD",
+              "value": 13.2
+            },
+            {
+              "party": "FDP",
+              "value": 7.8
+            },
+            {
+              "party": "Others",
+              "value": 6.5
+            },
+            {
+              "party": "Greens",
+              "value": 4.1
+            }
+          ],
+          "turnout": 74.3
+        },
+        "01": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 34
+            },
+            {
+              "party": "SPD",
+              "value": 23.3
+            },
+            {
+              "party": "FDP",
+              "value": 12.6
+            },
+            {
+              "party": "Greens",
+              "value": 12
+            },
+            {
+              "party": "AfD",
+              "value": 8.2
+            },
+            {
+              "party": "Left",
+              "value": 7.3
+            },
+            {
+              "party": "Others",
+              "value": 2.7
+            }
+          ],
+          "turnout": 76.3
+        },
+        "02": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 27.2
+            },
+            {
+              "party": "SPD",
+              "value": 23.5
+            },
+            {
+              "party": "Greens",
+              "value": 13.9
+            },
+            {
+              "party": "Left",
+              "value": 12.2
+            },
+            {
+              "party": "FDP",
+              "value": 10.8
+            },
+            {
+              "party": "AfD",
+              "value": 7.8
+            },
+            {
+              "party": "Others",
+              "value": 4.5
+            }
+          ],
+          "turnout": 76
+        },
+        "03": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 34.9
+            },
+            {
+              "party": "SPD",
+              "value": 27.4
+            },
+            {
+              "party": "FDP",
+              "value": 9.3
+            },
+            {
+              "party": "AfD",
+              "value": 9.1
+            },
+            {
+              "party": "Greens",
+              "value": 8.7
+            },
+            {
+              "party": "Left",
+              "value": 7
+            },
+            {
+              "party": "Others",
+              "value": 3.6
+            }
+          ],
+          "turnout": 76.4
+        },
+        "04": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 26.8
+            },
+            {
+              "party": "CDU",
+              "value": 25.1
+            },
+            {
+              "party": "Left",
+              "value": 13.4
+            },
+            {
+              "party": "Greens",
+              "value": 11.1
+            },
+            {
+              "party": "AfD",
+              "value": 10
+            },
+            {
+              "party": "FDP",
+              "value": 9.3
+            },
+            {
+              "party": "Others",
+              "value": 4.3
+            }
+          ],
+          "turnout": 70.8
+        },
+        "05": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 32.6
+            },
+            {
+              "party": "SPD",
+              "value": 26
+            },
+            {
+              "party": "FDP",
+              "value": 13.1
+            },
+            {
+              "party": "AfD",
+              "value": 9.4
+            },
+            {
+              "party": "Greens",
+              "value": 7.6
+            },
+            {
+              "party": "Left",
+              "value": 7.5
+            },
+            {
+              "party": "Others",
+              "value": 3.8
+            }
+          ],
+          "turnout": 75.4
+        },
+        "06": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 30.9
+            },
+            {
+              "party": "SPD",
+              "value": 23.5
+            },
+            {
+              "party": "AfD",
+              "value": 11.9
+            },
+            {
+              "party": "FDP",
+              "value": 11.5
+            },
+            {
+              "party": "Greens",
+              "value": 9.7
+            },
+            {
+              "party": "Left",
+              "value": 8.1
+            },
+            {
+              "party": "Others",
+              "value": 4.4
+            }
+          ],
+          "turnout": 77
+        },
+        "07": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 35.9
+            },
+            {
+              "party": "SPD",
+              "value": 24.1
+            },
+            {
+              "party": "AfD",
+              "value": 11.2
+            },
+            {
+              "party": "FDP",
+              "value": 10.4
+            },
+            {
+              "party": "Greens",
+              "value": 7.6
+            },
+            {
+              "party": "Left",
+              "value": 6.8
+            },
+            {
+              "party": "Others",
+              "value": 3.9
+            }
+          ],
+          "turnout": 77.7
+        },
+        "08": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 34.4
+            },
+            {
+              "party": "SPD",
+              "value": 16.4
+            },
+            {
+              "party": "Greens",
+              "value": 13.5
+            },
+            {
+              "party": "FDP",
+              "value": 12.7
+            },
+            {
+              "party": "AfD",
+              "value": 12.2
+            },
+            {
+              "party": "Left",
+              "value": 6.4
+            },
+            {
+              "party": "Others",
+              "value": 4.5
+            }
+          ],
+          "turnout": 78.3
+        },
+        "09": {
+          "results": [
+            {
+              "party": "CSU",
+              "value": 38.8
+            },
+            {
+              "party": "SPD",
+              "value": 15.3
+            },
+            {
+              "party": "AfD",
+              "value": 12.4
+            },
+            {
+              "party": "FDP",
+              "value": 10.2
+            },
+            {
+              "party": "Greens",
+              "value": 9.8
+            },
+            {
+              "party": "Others",
+              "value": 7.5
+            },
+            {
+              "party": "Left",
+              "value": 6.1
+            }
+          ],
+          "turnout": 78.1
+        }
+      }
+    },
+    "2021": {
+      "date": "2021-09-26",
+      "label": "2021 Bundestag election",
+      "national": {
+        "results": [
+          {
+            "party": "SPD",
+            "value": 25.7
+          },
+          {
+            "party": "CDU",
+            "value": 19
+          },
+          {
+            "party": "Greens",
+            "value": 14.7
+          },
+          {
+            "party": "FDP",
+            "value": 11.4
+          },
+          {
+            "party": "AfD",
+            "value": 10.4
+          },
+          {
+            "party": "Others",
+            "value": 8.6
+          },
+          {
+            "party": "CSU",
+            "value": 5.2
+          },
+          {
+            "party": "Left",
+            "value": 4.9
+          },
+          {
+            "party": "SSW",
+            "value": 0.1
+          }
+        ],
+        "turnout": 76.4
+      },
+      "source": "https://www.bundeswahlleiterin.de/bundestagswahlen/2021/ergebnisse.html",
+      "states": {
+        "10": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 37.3
+            },
+            {
+              "party": "CDU",
+              "value": 23.6
+            },
+            {
+              "party": "FDP",
+              "value": 11.5
+            },
+            {
+              "party": "Others",
+              "value": 10.5
+            },
+            {
+              "party": "AfD",
+              "value": 10
+            },
+            {
+              "party": "Left",
+              "value": 7.2
+            }
+          ],
+          "turnout": 77.3
+        },
+        "11": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 22.2
+            },
+            {
+              "party": "Greens",
+              "value": 22
+            },
+            {
+              "party": "CDU",
+              "value": 17.2
+            },
+            {
+              "party": "Left",
+              "value": 11.5
+            },
+            {
+              "party": "AfD",
+              "value": 9.4
+            },
+            {
+              "party": "Others",
+              "value": 9.4
+            },
+            {
+              "party": "FDP",
+              "value": 8.1
+            }
+          ],
+          "turnout": 69.5
+        },
+        "12": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 29.5
+            },
+            {
+              "party": "AfD",
+              "value": 18.1
+            },
+            {
+              "party": "CDU",
+              "value": 15.3
+            },
+            {
+              "party": "Others",
+              "value": 10.3
+            },
+            {
+              "party": "FDP",
+              "value": 9.3
+            },
+            {
+              "party": "Greens",
+              "value": 9
+            },
+            {
+              "party": "Left",
+              "value": 8.5
+            }
+          ],
+          "turnout": 75.6
+        },
+        "13": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 29.1
+            },
+            {
+              "party": "AfD",
+              "value": 18
+            },
+            {
+              "party": "CDU",
+              "value": 17.4
+            },
+            {
+              "party": "Left",
+              "value": 11.1
+            },
+            {
+              "party": "Others",
+              "value": 8.4
+            },
+            {
+              "party": "FDP",
+              "value": 8.2
+            },
+            {
+              "party": "Greens",
+              "value": 7.8
+            }
+          ],
+          "turnout": 71.1
+        },
+        "14": {
+          "results": [
+            {
+              "party": "AfD",
+              "value": 24.6
+            },
+            {
+              "party": "SPD",
+              "value": 19.3
+            },
+            {
+              "party": "CDU",
+              "value": 17.2
+            },
+            {
+              "party": "FDP",
+              "value": 11
+            },
+            {
+              "party": "Others",
+              "value": 9.9
+            },
+            {
+              "party": "Left",
+              "value": 9.3
+            },
+            {
+              "party": "Greens",
+              "value": 8.6
+            }
+          ],
+          "turnout": 76.5
+        },
+        "15": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 25.4
+            },
+            {
+              "party": "CDU",
+              "value": 21
+            },
+            {
+              "party": "AfD",
+              "value": 19.6
+            },
+            {
+              "party": "Left",
+              "value": 9.6
+            },
+            {
+              "party": "FDP",
+              "value": 9.5
+            },
+            {
+              "party": "Others",
+              "value": 8.4
+            },
+            {
+              "party": "Greens",
+              "value": 6.5
+            }
+          ],
+          "turnout": 67.9
+        },
+        "16": {
+          "results": [
+            {
+              "party": "AfD",
+              "value": 24
+            },
+            {
+              "party": "SPD",
+              "value": 23.4
+            },
+            {
+              "party": "CDU",
+              "value": 16.9
+            },
+            {
+              "party": "Left",
+              "value": 11.4
+            },
+            {
+              "party": "FDP",
+              "value": 9
+            },
+            {
+              "party": "Others",
+              "value": 8.7
+            },
+            {
+              "party": "Greens",
+              "value": 6.6
+            }
+          ],
+          "turnout": 74.9
+        },
+        "01": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 28
+            },
+            {
+              "party": "CDU",
+              "value": 22
+            },
+            {
+              "party": "Greens",
+              "value": 18.3
+            },
+            {
+              "party": "FDP",
+              "value": 12.5
+            },
+            {
+              "party": "AfD",
+              "value": 6.8
+            },
+            {
+              "party": "Others",
+              "value": 5.6
+            },
+            {
+              "party": "Left",
+              "value": 3.6
+            },
+            {
+              "party": "SSW",
+              "value": 3.2
+            }
+          ],
+          "turnout": 78.2
+        },
+        "02": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 29.7
+            },
+            {
+              "party": "Greens",
+              "value": 24.9
+            },
+            {
+              "party": "CDU",
+              "value": 15.4
+            },
+            {
+              "party": "FDP",
+              "value": 11.4
+            },
+            {
+              "party": "Others",
+              "value": 6.8
+            },
+            {
+              "party": "Left",
+              "value": 6.7
+            },
+            {
+              "party": "AfD",
+              "value": 5
+            }
+          ],
+          "turnout": 77.8
+        },
+        "03": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 33.1
+            },
+            {
+              "party": "CDU",
+              "value": 24.2
+            },
+            {
+              "party": "Greens",
+              "value": 16.1
+            },
+            {
+              "party": "FDP",
+              "value": 10.5
+            },
+            {
+              "party": "AfD",
+              "value": 7.4
+            },
+            {
+              "party": "Others",
+              "value": 5.4
+            },
+            {
+              "party": "Left",
+              "value": 3.3
+            }
+          ],
+          "turnout": 74.7
+        },
+        "04": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 31.5
+            },
+            {
+              "party": "Greens",
+              "value": 20.9
+            },
+            {
+              "party": "CDU",
+              "value": 17.2
+            },
+            {
+              "party": "FDP",
+              "value": 9.3
+            },
+            {
+              "party": "Left",
+              "value": 7.7
+            },
+            {
+              "party": "AfD",
+              "value": 6.9
+            },
+            {
+              "party": "Others",
+              "value": 6.5
+            }
+          ],
+          "turnout": 71.9
+        },
+        "05": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 29.1
+            },
+            {
+              "party": "CDU",
+              "value": 26
+            },
+            {
+              "party": "Greens",
+              "value": 16.1
+            },
+            {
+              "party": "FDP",
+              "value": 11.4
+            },
+            {
+              "party": "AfD",
+              "value": 7.3
+            },
+            {
+              "party": "Others",
+              "value": 6.5
+            },
+            {
+              "party": "Left",
+              "value": 3.7
+            }
+          ],
+          "turnout": 76.4
+        },
+        "06": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 27.6
+            },
+            {
+              "party": "CDU",
+              "value": 22.8
+            },
+            {
+              "party": "Greens",
+              "value": 15.8
+            },
+            {
+              "party": "FDP",
+              "value": 12.8
+            },
+            {
+              "party": "AfD",
+              "value": 8.8
+            },
+            {
+              "party": "Others",
+              "value": 7.9
+            },
+            {
+              "party": "Left",
+              "value": 4.3
+            }
+          ],
+          "turnout": 76.2
+        },
+        "07": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 29.4
+            },
+            {
+              "party": "CDU",
+              "value": 24.7
+            },
+            {
+              "party": "Greens",
+              "value": 12.6
+            },
+            {
+              "party": "FDP",
+              "value": 11.7
+            },
+            {
+              "party": "AfD",
+              "value": 9.2
+            },
+            {
+              "party": "Others",
+              "value": 9.2
+            },
+            {
+              "party": "Left",
+              "value": 3.3
+            }
+          ],
+          "turnout": 77.2
+        },
+        "08": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 24.8
+            },
+            {
+              "party": "SPD",
+              "value": 21.6
+            },
+            {
+              "party": "Greens",
+              "value": 17.2
+            },
+            {
+              "party": "FDP",
+              "value": 15.3
+            },
+            {
+              "party": "AfD",
+              "value": 9.6
+            },
+            {
+              "party": "Others",
+              "value": 8.2
+            },
+            {
+              "party": "Left",
+              "value": 3.3
+            }
+          ],
+          "turnout": 77.8
+        },
+        "09": {
+          "results": [
+            {
+              "party": "CSU",
+              "value": 31.7
+            },
+            {
+              "party": "SPD",
+              "value": 18
+            },
+            {
+              "party": "Greens",
+              "value": 14.1
+            },
+            {
+              "party": "Others",
+              "value": 13.9
+            },
+            {
+              "party": "FDP",
+              "value": 10.5
+            },
+            {
+              "party": "AfD",
+              "value": 9
+            },
+            {
+              "party": "Left",
+              "value": 2.8
+            }
+          ],
+          "turnout": 79.9
+        }
+      }
+    },
+    "2025": {
+      "date": "2025-02-23",
+      "label": "2025 Bundestag election",
+      "national": {
+        "results": [
+          {
+            "party": "CDU",
+            "value": 22.6
+          },
+          {
+            "party": "AfD",
+            "value": 20.8
+          },
+          {
+            "party": "SPD",
+            "value": 16.4
+          },
+          {
+            "party": "Greens",
+            "value": 11.6
+          },
+          {
+            "party": "Others",
+            "value": 9.4
+          },
+          {
+            "party": "Left",
+            "value": 8.8
+          },
+          {
+            "party": "CSU",
+            "value": 6
+          },
+          {
+            "party": "FDP",
+            "value": 4.3
+          },
+          {
+            "party": "SSW",
+            "value": 0.2
+          }
+        ],
+        "turnout": 82.5
+      },
+      "source": "https://www.bundeswahlleiterin.de/bundestagswahlen/2025/ergebnisse.html",
+      "states": {
+        "10": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 26.9
+            },
+            {
+              "party": "SPD",
+              "value": 21.9
+            },
+            {
+              "party": "AfD",
+              "value": 21.6
+            },
+            {
+              "party": "Others",
+              "value": 10.8
+            },
+            {
+              "party": "Left",
+              "value": 7.4
+            },
+            {
+              "party": "Greens",
+              "value": 7.2
+            },
+            {
+              "party": "FDP",
+              "value": 4.3
+            }
+          ],
+          "turnout": 82.4
+        },
+        "11": {
+          "results": [
+            {
+              "party": "Left",
+              "value": 19.9
+            },
+            {
+              "party": "CDU",
+              "value": 18.3
+            },
+            {
+              "party": "Greens",
+              "value": 16.8
+            },
+            {
+              "party": "AfD",
+              "value": 15.2
+            },
+            {
+              "party": "SPD",
+              "value": 15.1
+            },
+            {
+              "party": "Others",
+              "value": 10.9
+            },
+            {
+              "party": "FDP",
+              "value": 3.8
+            }
+          ],
+          "turnout": 80.3
+        },
+        "12": {
+          "results": [
+            {
+              "party": "AfD",
+              "value": 32.5
+            },
+            {
+              "party": "CDU",
+              "value": 18.1
+            },
+            {
+              "party": "SPD",
+              "value": 14.8
+            },
+            {
+              "party": "Others",
+              "value": 14.1
+            },
+            {
+              "party": "Left",
+              "value": 10.7
+            },
+            {
+              "party": "Greens",
+              "value": 6.6
+            },
+            {
+              "party": "FDP",
+              "value": 3.2
+            }
+          ],
+          "turnout": 81.6
+        },
+        "13": {
+          "results": [
+            {
+              "party": "AfD",
+              "value": 35
+            },
+            {
+              "party": "CDU",
+              "value": 17.8
+            },
+            {
+              "party": "Others",
+              "value": 14.2
+            },
+            {
+              "party": "SPD",
+              "value": 12.4
+            },
+            {
+              "party": "Left",
+              "value": 12
+            },
+            {
+              "party": "Greens",
+              "value": 5.4
+            },
+            {
+              "party": "FDP",
+              "value": 3.2
+            }
+          ],
+          "turnout": 79.5
+        },
+        "14": {
+          "results": [
+            {
+              "party": "AfD",
+              "value": 37.3
+            },
+            {
+              "party": "CDU",
+              "value": 19.7
+            },
+            {
+              "party": "Others",
+              "value": 13.5
+            },
+            {
+              "party": "Left",
+              "value": 11.3
+            },
+            {
+              "party": "SPD",
+              "value": 8.5
+            },
+            {
+              "party": "Greens",
+              "value": 6.5
+            },
+            {
+              "party": "FDP",
+              "value": 3.2
+            }
+          ],
+          "turnout": 81.1
+        },
+        "15": {
+          "results": [
+            {
+              "party": "AfD",
+              "value": 37.1
+            },
+            {
+              "party": "CDU",
+              "value": 19.2
+            },
+            {
+              "party": "Others",
+              "value": 14.5
+            },
+            {
+              "party": "SPD",
+              "value": 11
+            },
+            {
+              "party": "Left",
+              "value": 10.8
+            },
+            {
+              "party": "Greens",
+              "value": 4.4
+            },
+            {
+              "party": "FDP",
+              "value": 3.1
+            }
+          ],
+          "turnout": 77.7
+        },
+        "16": {
+          "results": [
+            {
+              "party": "AfD",
+              "value": 38.6
+            },
+            {
+              "party": "CDU",
+              "value": 18.6
+            },
+            {
+              "party": "Left",
+              "value": 15.2
+            },
+            {
+              "party": "Others",
+              "value": 11.9
+            },
+            {
+              "party": "SPD",
+              "value": 8.8
+            },
+            {
+              "party": "Greens",
+              "value": 4.2
+            },
+            {
+              "party": "FDP",
+              "value": 2.8
+            }
+          ],
+          "turnout": 80.7
+        },
+        "01": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 27.6
+            },
+            {
+              "party": "SPD",
+              "value": 18.8
+            },
+            {
+              "party": "AfD",
+              "value": 16.3
+            },
+            {
+              "party": "Greens",
+              "value": 14.9
+            },
+            {
+              "party": "Left",
+              "value": 7.8
+            },
+            {
+              "party": "Others",
+              "value": 6
+            },
+            {
+              "party": "FDP",
+              "value": 4.7
+            },
+            {
+              "party": "SSW",
+              "value": 4
+            }
+          ],
+          "turnout": 83.5
+        },
+        "02": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 22.7
+            },
+            {
+              "party": "CDU",
+              "value": 20.7
+            },
+            {
+              "party": "Greens",
+              "value": 19.3
+            },
+            {
+              "party": "Left",
+              "value": 14.5
+            },
+            {
+              "party": "AfD",
+              "value": 10.9
+            },
+            {
+              "party": "Others",
+              "value": 7.4
+            },
+            {
+              "party": "FDP",
+              "value": 4.5
+            }
+          ],
+          "turnout": 80.9
+        },
+        "03": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 28.1
+            },
+            {
+              "party": "SPD",
+              "value": 23
+            },
+            {
+              "party": "AfD",
+              "value": 17.8
+            },
+            {
+              "party": "Greens",
+              "value": 11.5
+            },
+            {
+              "party": "Left",
+              "value": 8.1
+            },
+            {
+              "party": "Others",
+              "value": 7.4
+            },
+            {
+              "party": "FDP",
+              "value": 4.1
+            }
+          ],
+          "turnout": 83.4
+        },
+        "04": {
+          "results": [
+            {
+              "party": "SPD",
+              "value": 23.1
+            },
+            {
+              "party": "CDU",
+              "value": 20.6
+            },
+            {
+              "party": "Greens",
+              "value": 15.6
+            },
+            {
+              "party": "AfD",
+              "value": 15.1
+            },
+            {
+              "party": "Left",
+              "value": 14.8
+            },
+            {
+              "party": "Others",
+              "value": 7.3
+            },
+            {
+              "party": "FDP",
+              "value": 3.5
+            }
+          ],
+          "turnout": 77.8
+        },
+        "05": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 30.1
+            },
+            {
+              "party": "SPD",
+              "value": 20
+            },
+            {
+              "party": "AfD",
+              "value": 16.8
+            },
+            {
+              "party": "Greens",
+              "value": 12.4
+            },
+            {
+              "party": "Left",
+              "value": 8.3
+            },
+            {
+              "party": "Others",
+              "value": 7.9
+            },
+            {
+              "party": "FDP",
+              "value": 4.4
+            }
+          ],
+          "turnout": 82.2
+        },
+        "06": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 28.9
+            },
+            {
+              "party": "SPD",
+              "value": 18.4
+            },
+            {
+              "party": "AfD",
+              "value": 17.8
+            },
+            {
+              "party": "Greens",
+              "value": 12.6
+            },
+            {
+              "party": "Left",
+              "value": 8.7
+            },
+            {
+              "party": "Others",
+              "value": 8.6
+            },
+            {
+              "party": "FDP",
+              "value": 5
+            }
+          ],
+          "turnout": 83.1
+        },
+        "07": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 30.6
+            },
+            {
+              "party": "AfD",
+              "value": 20.1
+            },
+            {
+              "party": "SPD",
+              "value": 18.6
+            },
+            {
+              "party": "Greens",
+              "value": 10.3
+            },
+            {
+              "party": "Others",
+              "value": 9.2
+            },
+            {
+              "party": "Left",
+              "value": 6.5
+            },
+            {
+              "party": "FDP",
+              "value": 4.6
+            }
+          ],
+          "turnout": 83
+        },
+        "08": {
+          "results": [
+            {
+              "party": "CDU",
+              "value": 31.6
+            },
+            {
+              "party": "AfD",
+              "value": 19.8
+            },
+            {
+              "party": "SPD",
+              "value": 14.2
+            },
+            {
+              "party": "Greens",
+              "value": 13.6
+            },
+            {
+              "party": "Others",
+              "value": 8.4
+            },
+            {
+              "party": "Left",
+              "value": 6.8
+            },
+            {
+              "party": "FDP",
+              "value": 5.6
+            }
+          ],
+          "turnout": 83.4
+        },
+        "09": {
+          "results": [
+            {
+              "party": "CSU",
+              "value": 37.2
+            },
+            {
+              "party": "AfD",
+              "value": 19
+            },
+            {
+              "party": "Greens",
+              "value": 12
+            },
+            {
+              "party": "SPD",
+              "value": 11.5
+            },
+            {
+              "party": "Others",
+              "value": 10.3
+            },
+            {
+              "party": "Left",
+              "value": 5.7
+            },
+            {
+              "party": "FDP",
+              "value": 4.2
+            }
+          ],
+          "turnout": 84.3
+        }
+      }
+    }
+  },
+  "source": "Federal Returning Officer · second votes"
+}
