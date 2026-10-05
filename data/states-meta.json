@@ -1,0 +1,18 @@
+[
+  {"id":"01","iso":"SH","name":"Schleswig-Holstein","apiName":"Schleswig-Holstein","capital":"Kiel","label":[9.82,54.2],"nextElection":{"date":"2027-04-18","label":"18 Apr 2027","official":true}},
+  {"id":"02","iso":"HH","name":"Hamburg","apiName":"Hamburg","capital":"Hamburg","label":[10.0,53.56],"nextElection":{"date":"2030-03","label":"Spring 2030","official":false}},
+  {"id":"03","iso":"NI","name":"Niedersachsen","apiName":"Niedersachsen","capital":"Hannover","label":[9.16,52.76],"nextElection":{"date":"2027-09-26","label":"26 Sep 2027","official":true}},
+  {"id":"04","iso":"HB","name":"Bremen","apiName":"Bremen","capital":"Bremen","label":[8.8,53.09],"nextElection":{"date":"2027-05-30","label":"30 May 2027","official":true}},
+  {"id":"05","iso":"NW","name":"Nordrhein-Westfalen","apiName":"Nordrhein-Westfalen (NRW)","capital":"Düsseldorf","label":[7.45,51.48],"nextElection":{"date":"2027-04-25","label":"25 Apr 2027","official":true}},
+  {"id":"06","iso":"HE","name":"Hessen","apiName":"Hessen","capital":"Wiesbaden","label":[9.02,50.6],"nextElection":{"date":"2028-10","label":"Autumn 2028","official":false}},
+  {"id":"07","iso":"RP","name":"Rheinland-Pfalz","apiName":"Rheinland-Pfalz","capital":"Mainz","label":[7.42,49.92],"nextElection":{"date":"2031-03","label":"Spring 2031","official":false}},
+  {"id":"08","iso":"BW","name":"Baden-Württemberg","apiName":"Baden-Württemberg","capital":"Stuttgart","label":[9.05,48.63],"nextElection":{"date":"2031-03","label":"Spring 2031","official":false}},
+  {"id":"09","iso":"BY","name":"Bayern","apiName":"Bayern","capital":"München","label":[11.45,48.9],"nextElection":{"date":"2028-10","label":"Autumn 2028","official":false}},
+  {"id":"10","iso":"SL","name":"Saarland","apiName":"Saarland","capital":"Saarbrücken","label":[6.94,49.38],"nextElection":{"date":"2027-04-18","label":"18 Apr 2027","official":true}},
+  {"id":"11","iso":"BE","name":"Berlin","apiName":"Berlin","capital":"Berlin","label":[13.405,52.52],"nextElection":{"date":"2031-09","label":"Autumn 2031","official":false}},
+  {"id":"12","iso":"BB","name":"Brandenburg","apiName":"Brandenburg","capital":"Potsdam","label":[13.55,52.05],"nextElection":{"date":"2029-09","label":"Autumn 2029","official":false}},
+  {"id":"13","iso":"MV","name":"Mecklenburg-Vorpommern","apiName":"Mecklenburg-Vorpommern","capital":"Schwerin","label":[12.4,53.75],"nextElection":{"date":"2031-09","label":"Autumn 2031","official":false}},
+  {"id":"14","iso":"SN","name":"Sachsen","apiName":"Sachsen","capital":"Dresden","label":[13.35,51.0],"nextElection":{"date":"2029-09","label":"Autumn 2029","official":false}},
+  {"id":"15","iso":"ST","name":"Sachsen-Anhalt","apiName":"Sachsen-Anhalt","capital":"Magdeburg","label":[11.68,52.0],"nextElection":{"date":"2031-09","label":"Expected 2031","official":false}},
+  {"id":"16","iso":"TH","name":"Thüringen","apiName":"Thüringen","capital":"Erfurt","label":[11.0,50.9],"nextElection":{"date":"2029-09","label":"Autumn 2029","official":false}}
+]
