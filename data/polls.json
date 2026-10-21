@@ -1,7 +1,7 @@
 {
   "Database": {
     "Author": "Dipl.-Jur. Philipp Guttmann",
-    "Last_Update": "2026-10-17T16:08:32+02:00",
+    "Last_Update": "2026-10-20T15:00:55+02:00",
     "License": {
       "Link": "https://opendatacommons.org/licenses/odbl/1-0/",
       "Name": "ODC Open Database License",
@@ -1973,30 +1973,6 @@
       "Surveyed_Persons": "1000",
       "Tasker_ID": "4"
     },
-    "4109": {
-      "Date": "2026-03-03",
-      "Institute_ID": "4",
-      "Method_ID": "4",
-      "Parliament_ID": "2",
-      "Results": {
-        "0": 5,
-        "2": 7,
-        "3": 2,
-        "4": 13,
-        "5": 3,
-        "7": 18,
-        "8": 10,
-        "11": 1,
-        "23": 2,
-        "102": 39
-      },
-      "Survey_Period": {
-        "Date_End": "2026-03-02",
-        "Date_Start": "2026-02-25"
-      },
-      "Surveyed_Persons": "1003",
-      "Tasker_ID": "12"
-    },
     "4113": {
       "Date": "2026-03-05",
       "Institute_ID": "6",
@@ -2577,51 +2553,6 @@
       "Surveyed_Persons": "1000",
       "Tasker_ID": "4"
     },
-    "4315": {
-      "Date": "2026-09-14",
-      "Institute_ID": "4",
-      "Method_ID": "4",
-      "Parliament_ID": "0",
-      "Results": {
-        "0": 6,
-        "1": 20,
-        "2": 11,
-        "3": 4,
-        "4": 14,
-        "5": 11,
-        "7": 30,
-        "8": 1,
-        "23": 3
-      },
-      "Survey_Period": {
-        "Date_End": "2026-09-14",
-        "Date_Start": "2026-09-09"
-      },
-      "Surveyed_Persons": "1009",
-      "Tasker_ID": "7"
-    },
-    "4317": {
-      "Date": "2026-09-15",
-      "Institute_ID": "13",
-      "Method_ID": "3",
-      "Parliament_ID": "0",
-      "Results": {
-        "0": 5,
-        "1": 18,
-        "2": 13,
-        "3": 5,
-        "4": 16,
-        "5": 10,
-        "7": 29,
-        "23": 4
-      },
-      "Survey_Period": {
-        "Date_End": "2026-09-14",
-        "Date_Start": "2026-09-11"
-      },
-      "Surveyed_Persons": "1787",
-      "Tasker_ID": "43"
-    },
     "4320": {
       "Date": "2026-09-16",
       "Institute_ID": "5",
@@ -2968,27 +2899,6 @@
       "Surveyed_Persons": "1000",
       "Tasker_ID": "112"
     },
-    "4348": {
-      "Date": "2026-10-13",
-      "Institute_ID": "2",
-      "Method_ID": "1",
-      "Parliament_ID": "0",
-      "Results": {
-        "0": 8,
-        "1": 19,
-        "2": 14,
-        "3": 4,
-        "4": 17,
-        "5": 12,
-        "7": 26
-      },
-      "Survey_Period": {
-        "Date_End": "2026-10-12",
-        "Date_Start": "2026-10-06"
-      },
-      "Surveyed_Persons": "1502",
-      "Tasker_ID": "63"
-    },
     "4350": {
       "Date": "2026-10-15",
       "Institute_ID": "1",
@@ -3031,27 +2941,115 @@
       "Surveyed_Persons": "1000",
       "Tasker_ID": "4"
     },
-    "4352": {
-      "Date": "2026-10-17",
-      "Institute_ID": "5",
+    "4353": {
+      "Date": "2026-10-19",
+      "Institute_ID": "4",
+      "Method_ID": "4",
+      "Parliament_ID": "2",
+      "Results": {
+        "0": 5,
+        "2": 6,
+        "3": 2,
+        "4": 15,
+        "5": 3,
+        "7": 22,
+        "8": 10,
+        "102": 37
+      },
+      "Survey_Period": {
+        "Date_End": "2026-10-19",
+        "Date_Start": "2026-10-14"
+      },
+      "Surveyed_Persons": "1011",
+      "Tasker_ID": "12"
+    },
+    "4354": {
+      "Date": "2026-10-19",
+      "Institute_ID": "4",
       "Method_ID": "4",
       "Parliament_ID": "0",
       "Results": {
         "0": 7,
-        "1": 18,
-        "2": 13,
-        "3": 4,
-        "4": 14,
-        "5": 11,
-        "7": 29,
-        "23": 4
+        "1": 19,
+        "2": 12,
+        "3": 3,
+        "4": 15,
+        "5": 10,
+        "7": 30,
+        "8": 1,
+        "23": 3
       },
       "Survey_Period": {
-        "Date_End": "2026-10-16",
-        "Date_Start": "2026-10-12"
+        "Date_End": "2026-10-19",
+        "Date_Start": "2026-10-14"
       },
-      "Surveyed_Persons": "1206",
-      "Tasker_ID": "3"
+      "Surveyed_Persons": "1012",
+      "Tasker_ID": "7"
+    },
+    "4355": {
+      "Date": "2026-10-20",
+      "Institute_ID": "13",
+      "Method_ID": "3",
+      "Parliament_ID": "0",
+      "Results": {
+        "0": 6,
+        "1": 18,
+        "2": 14,
+        "3": 5,
+        "4": 16,
+        "5": 10,
+        "7": 28,
+        "23": 3
+      },
+      "Survey_Period": {
+        "Date_End": "2026-10-19",
+        "Date_Start": "2026-10-16"
+      },
+      "Surveyed_Persons": "1773",
+      "Tasker_ID": "43"
+    },
+    "4356": {
+      "Date": "2026-10-20",
+      "Institute_ID": "5",
+      "Method_ID": "3",
+      "Parliament_ID": "0",
+      "Results": {
+        "0": 4.5,
+        "1": 18,
+        "2": 14,
+        "3": 5,
+        "4": 14,
+        "5": 11,
+        "7": 30,
+        "23": 3.5
+      },
+      "Survey_Period": {
+        "Date_End": "2026-10-19",
+        "Date_Start": "2026-10-16"
+      },
+      "Surveyed_Persons": "2002",
+      "Tasker_ID": "4"
+    },
+    "4357": {
+      "Date": "2026-10-20",
+      "Institute_ID": "2",
+      "Method_ID": "1",
+      "Parliament_ID": "0",
+      "Results": {
+        "0": 8,
+        "1": 20,
+        "2": 13,
+        "3": 4,
+        "4": 17,
+        "5": 11,
+        "7": 27
+      },
+      "Survey_Period": {
+        "Date_End": "2026-10-19",
+        "Date_Start": "2026-10-13"
+      },
+      "Surveyed_Persons": "2502",
+      "Tasker_ID": "63"
     }
   }
 }
