@@ -1,7 +1,7 @@
 {
   "Database": {
     "Author": "Dipl.-Jur. Philipp Guttmann",
-    "Last_Update": "2026-10-20T15:00:55+02:00",
+    "Last_Update": "2026-10-21T13:29:52+02:00",
     "License": {
       "Link": "https://opendatacommons.org/licenses/odbl/1-0/",
       "Name": "ODC Open Database License",
@@ -1889,27 +1889,6 @@
       "Surveyed_Persons": "2500",
       "Tasker_ID": "125"
     },
-    "4053": {
-      "Date": "2026-01-14",
-      "Institute_ID": "1",
-      "Method_ID": "4",
-      "Parliament_ID": "2",
-      "Results": {
-        "0": 9,
-        "2": 8,
-        "4": 13,
-        "5": 3,
-        "7": 19,
-        "8": 9,
-        "102": 39
-      },
-      "Survey_Period": {
-        "Date_End": "2026-01-12",
-        "Date_Start": "2026-01-08"
-      },
-      "Surveyed_Persons": "1177",
-      "Tasker_ID": "53"
-    },
     "4077": {
       "Date": "2026-02-02",
       "Institute_ID": "1",
@@ -2574,28 +2553,6 @@
       "Surveyed_Persons": "1000",
       "Tasker_ID": "4"
     },
-    "4321": {
-      "Date": "2026-09-16",
-      "Institute_ID": "22",
-      "Method_ID": "3",
-      "Parliament_ID": "0",
-      "Results": {
-        "0": 4,
-        "1": 19,
-        "2": 14,
-        "3": 5,
-        "4": 14,
-        "5": 12,
-        "7": 27,
-        "23": 5
-      },
-      "Survey_Period": {
-        "Date_End": "2026-09-16",
-        "Date_Start": "2026-09-14"
-      },
-      "Surveyed_Persons": "3113",
-      "Tasker_ID": "113"
-    },
     "4323": {
       "Date": "2026-09-12",
       "Institute_ID": "16",
@@ -3050,6 +3007,49 @@
       },
       "Surveyed_Persons": "2502",
       "Tasker_ID": "63"
+    },
+    "4358": {
+      "Date": "2026-10-20",
+      "Institute_ID": "1",
+      "Method_ID": "4",
+      "Parliament_ID": "2",
+      "Results": {
+        "0": 7,
+        "2": 8,
+        "4": 15,
+        "5": 4,
+        "7": 21,
+        "8": 9,
+        "102": 36
+      },
+      "Survey_Period": {
+        "Date_End": "2026-10-17",
+        "Date_Start": "2026-10-12"
+      },
+      "Surveyed_Persons": "1207",
+      "Tasker_ID": "53"
+    },
+    "4359": {
+      "Date": "2026-10-20",
+      "Institute_ID": "22",
+      "Method_ID": "3",
+      "Parliament_ID": "0",
+      "Results": {
+        "0": 4,
+        "1": 18,
+        "2": 15,
+        "3": 5,
+        "4": 14,
+        "5": 11,
+        "7": 29,
+        "23": 4
+      },
+      "Survey_Period": {
+        "Date_End": "2026-10-19",
+        "Date_Start": "2026-10-16"
+      },
+      "Surveyed_Persons": "1300",
+      "Tasker_ID": "67"
     }
   }
 }
