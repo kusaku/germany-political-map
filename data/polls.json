@@ -1,7 +1,7 @@
 {
   "Database": {
     "Author": "Dipl.-Jur. Philipp Guttmann",
-    "Last_Update": "2026-10-21T13:29:52+02:00",
+    "Last_Update": "2026-10-23T06:07:58+02:00",
     "License": {
       "Link": "https://opendatacommons.org/licenses/odbl/1-0/",
       "Name": "ODC Open Database License",
@@ -2682,27 +2682,6 @@
       "Surveyed_Persons": "1030",
       "Tasker_ID": "131"
     },
-    "4332": {
-      "Date": "2026-09-24",
-      "Institute_ID": "9",
-      "Method_ID": "2",
-      "Parliament_ID": "0",
-      "Results": {
-        "0": 7,
-        "1": 23,
-        "2": 13,
-        "3": 5,
-        "4": 14,
-        "5": 10,
-        "7": 28
-      },
-      "Survey_Period": {
-        "Date_End": "2026-09-16",
-        "Date_Start": "2026-09-04"
-      },
-      "Surveyed_Persons": "1051",
-      "Tasker_ID": "6"
-    },
     "4334": {
       "Date": "2026-09-25",
       "Institute_ID": "3",
@@ -3050,6 +3029,27 @@
       },
       "Surveyed_Persons": "1300",
       "Tasker_ID": "67"
+    },
+    "4360": {
+      "Date": "2026-10-22",
+      "Institute_ID": "9",
+      "Method_ID": "2",
+      "Parliament_ID": "0",
+      "Results": {
+        "0": 7,
+        "1": 23,
+        "2": 14,
+        "3": 4,
+        "4": 14,
+        "5": 11,
+        "7": 27
+      },
+      "Survey_Period": {
+        "Date_End": "2026-10-16",
+        "Date_Start": "2026-10-02"
+      },
+      "Surveyed_Persons": "1048",
+      "Tasker_ID": "6"
     }
   }
 }
