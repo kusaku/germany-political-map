@@ -1,7 +1,7 @@
 {
   "Database": {
     "Author": "Dipl.-Jur. Philipp Guttmann",
-    "Last_Update": "2026-10-27T21:55:24+01:00",
+    "Last_Update": "2026-10-30T11:01:16+01:00",
     "License": {
       "Link": "https://opendatacommons.org/licenses/odbl/1-0/",
       "Name": "ODC Open Database License",
@@ -187,7 +187,7 @@
       "Shortcut": "BfTh"
     },
     "23": {
-      "Name": "Bündnis Sahra Wagenknecht",
+      "Name": "Bündnis für soziale Gerechtigkeit und wirtschaftliche Vernunft",
       "Shortcut": "BSW"
     },
     "24": {
@@ -2511,27 +2511,6 @@
       "Surveyed_Persons": "1000",
       "Tasker_ID": "4"
     },
-    "4320": {
-      "Date": "2026-09-16",
-      "Institute_ID": "5",
-      "Method_ID": "3",
-      "Parliament_ID": "8",
-      "Results": {
-        "0": 3,
-        "2": 35,
-        "4": 5,
-        "5": 10,
-        "7": 37,
-        "23": 3,
-        "101": 7
-      },
-      "Survey_Period": {
-        "Date_End": "2026-09-15",
-        "Date_Start": "2026-09-08"
-      },
-      "Surveyed_Persons": "1000",
-      "Tasker_ID": "4"
-    },
     "4323": {
       "Date": "2026-09-12",
       "Institute_ID": "16",
@@ -3051,6 +3030,27 @@
       },
       "Surveyed_Persons": "2010",
       "Tasker_ID": "4"
+    },
+    "4367": {
+      "Date": "2026-10-29",
+      "Institute_ID": "5",
+      "Method_ID": "3",
+      "Parliament_ID": "8",
+      "Results": {
+        "0": 5,
+        "2": 32,
+        "4": 5,
+        "5": 9,
+        "7": 39,
+        "23": 5,
+        "101": 5
+      },
+      "Survey_Period": {
+        "Date_End": "2026-10-27",
+        "Date_Start": "2026-10-21"
+      },
+      "Surveyed_Persons": "1000",
+      "Tasker_ID": "57"
     }
   }
 }
