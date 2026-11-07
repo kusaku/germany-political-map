@@ -1,7 +1,7 @@
 {
   "Database": {
     "Author": "Dipl.-Jur. Philipp Guttmann",
-    "Last_Update": "2026-11-05T18:57:42+01:00",
+    "Last_Update": "2026-11-06T22:28:08+01:00",
     "License": {
       "Link": "https://opendatacommons.org/licenses/odbl/1-0/",
       "Name": "ODC Open Database License",
@@ -197,6 +197,10 @@
     "25": {
       "Name": "WerteUnion",
       "Shortcut": "WerteUnion"
+    },
+    "29": {
+      "Name": "Thüringen.Gerecht",
+      "Shortcut": "Thüringen.Gerecht"
     },
     "101": {
       "Name": "Christlich Demokratische Union",
@@ -2163,27 +2167,6 @@
       "Surveyed_Persons": "1139",
       "Tasker_ID": "28"
     },
-    "4225": {
-      "Date": "2026-07-02",
-      "Institute_ID": "5",
-      "Method_ID": "3",
-      "Parliament_ID": "16",
-      "Results": {
-        "0": 5,
-        "2": 6,
-        "4": 4,
-        "5": 16,
-        "7": 40,
-        "23": 7,
-        "101": 22
-      },
-      "Survey_Period": {
-        "Date_End": "2026-06-30",
-        "Date_Start": "2026-06-23"
-      },
-      "Surveyed_Persons": "1000",
-      "Tasker_ID": "80"
-    },
     "4237": {
       "Date": "2026-07-14",
       "Institute_ID": "5",
@@ -3053,6 +3036,28 @@
       },
       "Surveyed_Persons": "1297",
       "Tasker_ID": "10"
+    },
+    "4373": {
+      "Date": "2026-11-06",
+      "Institute_ID": "5",
+      "Method_ID": "3",
+      "Parliament_ID": "16",
+      "Results": {
+        "0": 6,
+        "2": 8,
+        "4": 4,
+        "5": 17,
+        "7": 40,
+        "23": 5,
+        "29": 2,
+        "101": 18
+      },
+      "Survey_Period": {
+        "Date_End": "2026-10-27",
+        "Date_Start": "2026-10-20"
+      },
+      "Surveyed_Persons": "1000",
+      "Tasker_ID": "80"
     }
   }
 }
